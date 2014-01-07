@@ -2,22 +2,4 @@ title: Damn.  I'm proud to be a gangsta...
 date: 2007-07-07 00:02:36
 ---
 
-<p>I started <a href="http://omniti.com">OmniTI</a> in 1997 and today I'm surrounded by <a href="http://omniti.com/people">kick-ass talent</a>.  Enough talent that we need our own track at <a href="http://conferences.oreillynet.com/os2007/">OSCON</a>.  I'm proud that the atmosphere here at OmniTI is so appealing to the gang.  Damn, I'm proud to be a gangsta.</p>
-
-<p>Come see us at OSCON!</p>
-
-<ul>
-<li><a href="http://conferences.oreillynet.com/cs/os2007/view/e_sess/12933">PDO: PHP Data Objects</a></li>
-<li><a href="http://conferences.oreillynet.com/cs/os2007/view/e_sess/12917">Improving Performance by Profiling PHP Applications</a></li>
-<li><a href="http://conferences.oreillynet.com/cs/os2007/view/e_sess/13088">Next-Gen Interaction with Ajax, Comet, and PHP</a></li>
-<li><a href="http://conferences.oreillynet.com/cs/os2007/view/e_sess/12060">Advanced Production Troubleshooting</a></li>
-<li><a href="http://conferences.oreillynet.com/cs/os2007/view/e_sess/12458">Scalable Internet Architectures</a></li>
-<li><a href="http://conferences.oreillynet.com/cs/os2007/view/e_sess/12862">Security 2.0</a></li>
-<li><a href="http://conferences.oreillynet.com/cs/os2007/view/e_sess/12863">Essential PHP Security</a></li>
-<li><a href="http://conferences.oreillynet.com/cs/os2007/view/e_sess/12808">Pro PostgreSQL</a></li>
-<li><a href="http://conferences.oreillynet.com/cs/os2007/view/e_sess/12801">Introduction to PL/PHP</a></li>
-<li><a href="http://conferences.oreillynet.com/cs/os2007/view/e_sess/12851">PHP and MySQL Best Practices</a></li>
-<li><a href="http://conferences.oreillynet.com/cs/os2007/view/e_sess/12855">Striving for Less Ugly Graphs and Charts from PHP</a></li>
-</ul>
-
-
+<p>I started <a href="http://omniti.com">OmniTI</a> in 1997 and today I'm surrounded by <a href="http://omniti.com/people">kick-ass talent</a>.  Enough talent that we need our own track at <a href="http://conferences.oreillynet.com/os2007/">OSCON</a>.  I'm proud that the atmosphere here at OmniTI is so appealing to the gang.  Damn, I'm proud to be a gangsta.</p>  <p>Come see us at OSCON!</p>  <ul> <li><a href="http://conferences.oreillynet.com/cs/os2007/view/e_sess/12933">PDO: PHP Data Objects</a></li> <li><a href="http://conferences.oreillynet.com/cs/os2007/view/e_sess/12917">Improving Performance by Profiling PHP Applications</a></li> <li><a href="http://conferences.oreillynet.com/cs/os2007/view/e_sess/13088">Next-Gen Interaction with Ajax, Comet, and PHP</a></li> <li><a href="http://conferences.oreillynet.com/cs/os2007/view/e_sess/12060">Advanced Production Troubleshooting</a></li> <li><a href="http://conferences.oreillynet.com/cs/os2007/view/e_sess/12458">Scalable Internet Architectures</a></li> <li><a href="http://conferences.oreillynet.com/cs/os2007/view/e_sess/12862">Security 2.0</a></li> <li><a href="http://conferences.oreillynet.com/cs/os2007/view/e_sess/12863">Essential PHP Security</a></li> <li><a href="http://conferences.oreillynet.com/cs/os2007/view/e_sess/12808">Pro PostgreSQL</a></li> <li><a href="http://conferences.oreillynet.com/cs/os2007/view/e_sess/12801">Introduction to PL/PHP</a></li> <li><a href="http://conferences.oreillynet.com/cs/os2007/view/e_sess/12851">PHP and MySQL Best Practices</a></li> <li><a href="http://conferences.oreillynet.com/cs/os2007/view/e_sess/12855">Striving for Less Ugly Graphs and Charts from PHP</a></li> </ul>  

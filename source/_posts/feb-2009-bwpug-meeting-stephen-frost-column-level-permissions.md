@@ -2,34 +2,4 @@ title: Feb 2009 BWPUG Meeting: Stephen Frost, Column Level Permissions
 date: 2009-01-29 17:42:15
 ---
 
-<p>Robert Treat was kind enough to coordinate the next BWPUG meeting.  Here are his words, be there or be square!</p>
-
-<p>UPDATED: the date of the meeting is 2009-02-09.</p>
-
-<hr />
-
-<p>Welcome back everyone!</p>
-
-<p>The last few months have been a busy time for everyone, but it's time to get 
-focused again and get meeting again. To that end, for the BWPUG February 
-meeting, we have lined up Stephen Frost to give a talk on Column Level 
-Permissions in Postgres. Column level permissions are a new feature that 
-Stephen authored which was recently committed into Postgres and will be 
-available in the upcoming Postgres 8.4 release.</p>
-
-<p>Stephen Frost is a Principal with Noblis, Inc., a non-profit organization 
-working in the public interest supporting local, state, and federal 
-Government. His work includes system architecture, system design, 
-programming, unix administration, database administration, and management of 
-the Noblis Innovation and Collaboration Center Computing Resources. As a 
-PostgreSQL contributor, Stephen implemented roles support in 8.1 to replace 
-the existing user/group system, and SQL column-level privileges in 8.4. As a 
-PostGIS contributor and committer, Stephen updated the TIGER Geocoder for 
-TIGER/Line and will be introducing a new version which works with the 
-TIGER/Shapefile data at PGCon 2009.</p>
-
-<p>Oh, and as a reminder, meetings are held at OmniTI world headquarters in 
-Columbia, Maryland (http://omniti.com/is/here for details). We'll look to 
-start around 6:30PM, and we'll have pizza and drinks available. We look 
-forward to seeing everyone again.</p>
-
+<p>Robert Treat was kind enough to coordinate the next BWPUG meeting.  Here are his words, be there or be square!</p>  <p>UPDATED: the date of the meeting is 2009-02-09.</p>  <hr />  <p>Welcome back everyone!</p>  <p>The last few months have been a busy time for everyone, but it's time to get  focused again and get meeting again. To that end, for the BWPUG February  meeting, we have lined up Stephen Frost to give a talk on Column Level  Permissions in Postgres. Column level permissions are a new feature that  Stephen authored which was recently committed into Postgres and will be  available in the upcoming Postgres 8.4 release.</p>  <p>Stephen Frost is a Principal with Noblis, Inc., a non-profit organization  working in the public interest supporting local, state, and federal  Government. His work includes system architecture, system design,  programming, unix administration, database administration, and management of  the Noblis Innovation and Collaboration Center Computing Resources. As a  PostgreSQL contributor, Stephen implemented roles support in 8.1 to replace  the existing user/group system, and SQL column-level privileges in 8.4. As a  PostGIS contributor and committer, Stephen updated the TIGER Geocoder for  TIGER/Line and will be introducing a new version which works with the  TIGER/Shapefile data at PGCon 2009.</p>  <p>Oh, and as a reminder, meetings are held at OmniTI world headquarters in  Columbia, Maryland (http://omniti.com/is/here for details). We'll look to  start around 6:30PM, and we'll have pizza and drinks available. We look  forward to seeing everyone again.</p> 

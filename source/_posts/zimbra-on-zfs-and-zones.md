@@ -2,37 +2,4 @@ title: Zimbra on ZFS and Zones.
 date: 2007-10-30 02:13:59
 ---
 
-<p>So, we're moving from an old Cyrus installation to <a href="http://zimbra.com/">Zimbra</a>.  We considered moving to Dovecot, but the need for tight corporate calendaring that isn't hosted by big brother (<a href="https://www.google.com/accounts/ServiceLogin?service=cl&passive=true&nui=1&continue=http%3A%2F%2Fwww.google.com%2Fcalendar%2Frender&followup=http%3A%2F%2Fwww.google.com%2Fcalendar%2Frender">Google</a> or <a href="http://yahoo.com/">Y!</a>) was too strong.</p>
-
-<p>So, I call up Zimbra...</p>
-
-<blockquote>
-<strong>Me</strong>: Gimme that for Solaris.<br />
-<strong>Zimbra</strong>: No.<br />
-<strong>Me</strong>: Umm... It's open source and the "closed" bits are non-native Java.<br />
-<strong>Zimbra</strong>: Umm... It doesn't work on Solaris, just install Linux.<br />
-<strong>Me</strong>: Just give me a sound off-site backup strategy that works as well as ZFS.<br />
-<strong>Zimbra</strong>: Umm... Install Linux, it's easy.<br />
-<strong>Me</strong>: You're kinda missing the point.<br />
-</blockquote>
-
-<p>I then turn to Sergey, master of brute force, on our SA team and said: you've got five days to run this on Solaris.  Sergey says: "done."</p>
-
-<p>From here, we test quite a bit, doing migrations from the existing solution and installation tests. Whiz, bang, whirrrrr.  We're happy, and I go back to Zimbra with some trepidation.</p>
-
-<blockquote>
-<strong>Me</strong>: How much?<br />
-<strong>Zimbra</strong>: Fill out this form and fax it.<br />
-<strong>Me</strong>: Okay... [faxed form]<br />
-<strong>Me</strong>: I sent it.<br />
-<strong>Zimbra</strong>: Got it, you should have your license.<br />
-<strong>Me</strong>: Wow, that was easy.<br />
-</blockquote>
-
-<p>While I like free software a lot.  Boy is it refreshing to find a company that knows how to take your money without pain and suffering, like <a href="http://microsoft.com/">some companies I know</a>.</p>
-
-<p>I'm sure that Zimbra is just trying to limit the support platforms to help control their engineering costs.  The support for Linux is a no-brainer -- it's the most popular new deployment platform for just about everyone.  But, support for Mac OS X... as if there is demand for that in the enterprise?!  WTF?  I know all about <a href="http://messagesystems.com/">developing mail products</a> and I understand that Mac OS X support is often iintroduced due to the engineering staff owning MacBook Pros.  But, come on... Tier 1 support for Mac OS X before Solaris, not very good market research here fellas.</p>
-
-<p>Anyway, we've got Zimbra cooking on a sweet Solaris box attached to a Sun StorEdge T3.  One zone runs Zimbra Network Edition and another zone runs Zimbra Open Source Edition.  Both of these running on some nice ZFS mount points that are conveniently backed up with <a href="https://labs.omniti.com/trac/zetaback/">Zetaback</a>... Bliss.</p>
-
-<p>Oh yeah.  One detractor to my bliss: I spent 2 days deleting old mail folders and eliminating cruft (built up over the last 10 years).  11 hours of imapsync to get my now down to 14 gigabyte mail store over is just painful.  There should be a universal mail store format so that I can "burn" by old mail into a universal archive format and just plug that into mail any mail server.  Right.</p>
+<p>So, we're moving from an old Cyrus installation to <a href="http://zimbra.com/">Zimbra</a>.  We considered moving to Dovecot, but the need for tight corporate calendaring that isn't hosted by big brother (<a href="https://www.google.com/accounts/ServiceLogin?service=cl&passive=true&nui=1&continue=http%3A%2F%2Fwww.google.com%2Fcalendar%2Frender&followup=http%3A%2F%2Fwww.google.com%2Fcalendar%2Frender">Google</a> or <a href="http://yahoo.com/">Y!</a>) was too strong.</p>  <p>So, I call up Zimbra...</p>  <blockquote> <strong>Me</strong>: Gimme that for Solaris.<br /> <strong>Zimbra</strong>: No.<br /> <strong>Me</strong>: Umm... It's open source and the "closed" bits are non-native Java.<br /> <strong>Zimbra</strong>: Umm... It doesn't work on Solaris, just install Linux.<br /> <strong>Me</strong>: Just give me a sound off-site backup strategy that works as well as ZFS.<br /> <strong>Zimbra</strong>: Umm... Install Linux, it's easy.<br /> <strong>Me</strong>: You're kinda missing the point.<br /> </blockquote>  <p>I then turn to Sergey, master of brute force, on our SA team and said: you've got five days to run this on Solaris.  Sergey says: "done."</p>  <p>From here, we test quite a bit, doing migrations from the existing solution and installation tests. Whiz, bang, whirrrrr.  We're happy, and I go back to Zimbra with some trepidation.</p>  <blockquote> <strong>Me</strong>: How much?<br /> <strong>Zimbra</strong>: Fill out this form and fax it.<br /> <strong>Me</strong>: Okay... [faxed form]<br /> <strong>Me</strong>: I sent it.<br /> <strong>Zimbra</strong>: Got it, you should have your license.<br /> <strong>Me</strong>: Wow, that was easy.<br /> </blockquote>  <p>While I like free software a lot.  Boy is it refreshing to find a company that knows how to take your money without pain and suffering, like <a href="http://microsoft.com/">some companies I know</a>.</p>  <p>I'm sure that Zimbra is just trying to limit the support platforms to help control their engineering costs.  The support for Linux is a no-brainer -- it's the most popular new deployment platform for just about everyone.  But, support for Mac OS X... as if there is demand for that in the enterprise?!  WTF?  I know all about <a href="http://messagesystems.com/">developing mail products</a> and I understand that Mac OS X support is often iintroduced due to the engineering staff owning MacBook Pros.  But, come on... Tier 1 support for Mac OS X before Solaris, not very good market research here fellas.</p>  <p>Anyway, we've got Zimbra cooking on a sweet Solaris box attached to a Sun StorEdge T3.  One zone runs Zimbra Network Edition and another zone runs Zimbra Open Source Edition.  Both of these running on some nice ZFS mount points that are conveniently backed up with <a href="https://labs.omniti.com/trac/zetaback/">Zetaback</a>... Bliss.</p>  <p>Oh yeah.  One detractor to my bliss: I spent 2 days deleting old mail folders and eliminating cruft (built up over the last 10 years).  11 hours of imapsync to get my now down to 14 gigabyte mail store over is just painful.  There should be a universal mail store format so that I can "burn" by old mail into a universal archive format and just plug that into mail any mail server.  Right.</p>
