@@ -1,0 +1,77 @@
+title: Disk benchmarking with dd -- don't
+date: 2009-04-15 02:50:14
+---
+
+<p>I heard some rumors <a href="http://it.toolbox.com/blogs/database-soup/testing-disk-speed-the-dd-test-31069?rss=1">float around</a> about using <code>dd</code> as a simple test for disk throughput.  I'd like to verbosely say, "that's a bad idea."</p>
+
+<p>I'm going to log into a crappy system with two extremely slow 1.5TB SATA drives in RAID 1.  Yes, this is a production machine and it's goal in life is to store a lot of things and serve some of them infrequently -- as such, its configuration is well suited for that task.</p>
+
+<pre>
+; /bin/time sh -c "dd if=/dev/zero of=ddfile bs=8k count=2000000"; /bin/time sync
+2000000+0 records in
+2000000+0 records out
+
+real       53.9
+user        1.2
+sys        28.4
+
+real        0.2
+user        0.0                  
+sys         0.0
+</pre>
+
+<p>I'll note first that the second set of times is the sync and we see it was effectively free.  Second, we got 304MB/s.  In RAID 1 we have to write to both drives, so in the best case we get the performance of the worst spindle.  304Mb/s seems a tad high.</p>
+
+<pre>
+; /bin/time sh -c "dd if=/dev/zero of=ddfile2 bs=8k count=2000000"
+2000000+0 records in
+2000000+0 records out
+
+; /bin/time dd if=ddfile of=/dev/null bs=8k
+2000000+0 records in
+2000000+0 records out
+
+real       36.9
+user        1.3
+sys        35.5
+</pre>
+
+<p>The first statement blows any buffer cache we might have.  Then we see a read of a 16GB file that sustains an average of 444 MB/s (over two spindles).  That too seems a little high.</p>
+
+<p>Oh wait, I had compression on.  Let's rerun that with it turned off.</p>
+
+<pre>
+; /bin/time sh -c "dd if=/dev/zero of=ddfile bs=8k count=2000000" ; /bin/time sync
+2000000+0 records in
+2000000+0 records out
+
+real     3:17.9
+user        1.2
+sys        29.5
+
+real        0.2
+user        0.0
+sys         0.0
+</pre>
+
+<p>Interestingly, still the sync is dirt cheap (ZFS pretty aggressively writes back) and we're at about 83MB/s.  That's the sweet sucking sound of mirrored SATA disks.</p>
+
+<p>Now reading it back after blowing the ARC (ZFS's version of buffer cache):</p>
+
+<pre>
+; /bin/time sh -c "dd if=/dev/zero of=ddfile2 bs=8k count=2000000"
+2000000+0 records in
+2000000+0 records out
+
+; /bin/time dd if=ddfile of=/dev/null bs=8k
+2000000+0 records in
+2000000+0 records out
+
+real     2:09.3
+user        1.2
+sys        13.1
+</pre>
+
+<p>127MB/s, as expected we see a better, yet still crappy throughput from our drives on reading as we're coming from two spindles instead of one.</p>
+
+<p>Long story short: modern filesystems can do whack stuff to your workloads. Use a comprehensive workload generator for I/O benchmarking.  Preferably one that can simulate something resembling a real workload.  Greg mentions bonnie++ in his post about benchmarking.  Bonnie++ is a legitimate benchmarking tool, but for generating real workloads, I suggest <a href="http://opensolaris.org/os/community/performance/filebench/">filebench</a>.  It might be a bit more work, but at least you can use the results!</p>

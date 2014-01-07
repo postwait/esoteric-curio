@@ -1,0 +1,6 @@
+title: A talk with Ben Rockwood
+date: 2009-01-03 16:07:31
+---
+
+<p>It has been a long time since I've done an interview with anyone.  Recently, I had the pleasure of being interviewed by the esteemed <a href="http://www.cuddletech.com/blog/">Ben Rockwood</a> for his <a href="http://www.cuddletech.com/sapro/">SA Pro</a> program.  Ben has been in the industry a long time and his standards are what standards should be.  It is nice to speak with someone in the systems administration field that works in an Internet-centric environment and still respects his work as a trade and presents himself as a craftsman.</p>
+<p>While it is a long listen, clocking in at over an hour, I'm quite pleased with the interview.  It covers a variety of topics like how <a href="http://omniti.com/">OmniTI</a> started, a bit about the culture that is instrumental to staff retention, service quality and customer satisfaction.  Feel free to spend an hour of your time <a href="http://www.cuddletech.com/sapro/SApro-Episode002.mp3">listening to a bit about operations, technology and culture at OmniTI</a>.</p>

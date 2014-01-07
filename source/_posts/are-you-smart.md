@@ -1,0 +1,11 @@
+title: Are you smart?
+date: 2005-11-24 03:05:21
+---
+
+<p>
+We're looking for a few good people at the old <a href="http://www.omniticc.com/">$dayjob</a>.  It's a pretty cool environment, it's a lot of fun.  The team is small and as challenges arise everyone has an opportunity to roll their sleeves up and dig into new technologies.  To highlight some scope and some tools:  Oracle, MySQL, PostgreSQL (terabytes in each), Perl, PHP, C, Python, XS, perlembed, JNI, mod_perl, Apache, Apache::ASP, SOAP, Linux, FreeBSD, Solaris, Asterisk, Subversion, Ecelerity, creditcard processing systems, and much much more.  In additional to technologies you have the opportunity to work on architectures with between 1 and 30 million users.
+</p>
+
+<p>
+We're constantly faced with the challenges of our fast-paced clients and need some real "doers" to dive into problems and resurface with good, efficient solutions.  If you've got good perl and SQL chops, like a fast-paced environment, and want to move to Maryland, then send your resumes to &lt; jobs at omniti dot com &gt;
+</p>

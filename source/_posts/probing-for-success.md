@@ -1,0 +1,74 @@
+title: Probing for Success
+date: 2008-04-13 19:08:22
+---
+
+<p>I recently attended <a href="http://wikis.sun.com/display/DTrace/dtrace.conf">dtrace.conf(08)</a>, which was a blast, but I left that conference with a single thought and it has been reinforced since.  <strong>Everything</strong> should be dtrace enabled.  While it is true that using DTrace you can introspect just about everything in the system, the pid provider (used to trace inside user-space applications) requires the user to to know the code of the application.  A full system "in-flight" has too many different apps running for me to keep all of their code-bases in my head.  The kernel and one or two apps is about my limit.  Also, the pid provider is somewhat limited in that it makes watching a lot of processes on that level intractable.  So, what's the solution? SDTs for user applications or USDTs.</p>
+
+<p>USDTs allow application authors to put specific probe points in their software that provide three compelling advantages over process-level tracing with the pid provider: (1) they should be carefully placed and named to be accessible to a user who does not know the application code base, its data structures, or even C for that matter, (2) they boast a very low barrier to entry, and (3) they work system-wide as expected.</p>
+
+<p>Sounds easy, right?  Well, adding the code to an existing project is "retarded simple."  After a few lines of patching in the build process (usually a makefile), new probes can be added at about two lines of code per probe (one line for the probe and one line for the prototype).  So, it is easy.  But, why isn't every application pimped-out with DTrace probes?  Linux.  Linux doesn't have DTrace and as such, I think there is a lot of resistance to add the probes to software who's primary development base (and target) is Linux.  I don't think they are against it, but the "what's in it for me?" question comes up and acts as an obstacle.  This is the case with any "cool new technology" that's not mainstream.</p>
+
+<p>The real challenge is that each open source project (to which we would add probes) has its own culture and process for proposing changes, submitting patches, negotiating for inclusion, etc.  In a lot of ways, in order to effect change, we have to take the role of a package distributor and with enough impetus, we'll see the upstream pull our patches on their schedule without much cooperation from us (of course, we're also happy to cooperate).</p>
+
+<p>I'm not going into the details of why DTrace is hands down better than peanut butter and jelly -- you need to see it in action to truly respect it.  However, with about two hours worth of work in PostgreSQL, I exposed <a href="https://labs.omniti.com/trac/project-dtrace/wiki/Applications#PostgreSQL">probes in some parts of PostgreSQL</a> that are otherwise hard to inspect.  I instrumented some XLog operations, checkpoints, "exec" nodes in the executor, buffer syncing, LRU operations (that drive the CLOG, SUBTRANS and MultiXact system), the autovacuum system and SQL executions from clients.</p>
+
+<p>Look ma! I can watch my checkpoints in real-time:</p>
+
+<pre>
+CheckPoint initated...
+  CLOG                                                              1
+  SUBTRANS                                                          1
+  Buffers                                                        1430
+CheckPoint complete: elapsed 92355ms
+
+CheckPoint initated...
+  CLOG                                                              1
+  SUBTRANS                                                          1
+  Buffers                                                         911
+CheckPoint complete: elapsed 55933ms
+
+</pre>
+
+<p>55 seconds! Is that evenly distributed?</p>
+
+<pre>
+  buffer writes                                     
+           value  ------------- Distribution ------------- count    
+             < 0 |                                         0        
+               0 |@@                                       5        
+               1 |@@                                       5        
+               2 |@@                                       5        
+               3 |@@                                       5        
+               4 |@                                        4        
+               5 |@@                                       5        
+               6 |@@                                       5        
+               7 |@@                                       5        
+               8 |@                                        4        
+               9 |@@                                       5        
+              10 |@@                                       5        
+              11 |@@                                       5        
+              12 |@                                        4        
+              13 |@@                                       5        
+              14 |@@                                       5        
+              15 |@@                                       5        
+              16 |@                                        4        
+              17 |@@                                       5        
+              18 |@@                                       5        
+              19 |@@                                       5        
+              20 |@                                        4        
+              21 |@@                                       5        
+              22 |@@                                       5        
+              23 |@@                                       5        
+              24 |@@                                       5        
+              25 |@                                        4        
+              26 |                                         1        
+              27 |                                         0        
+
+CheckPoint complete: elapsed 26085ms
+</pre>
+
+<p>Well, it only took 26 seconds that time.  It turns out that in PostgreSQL 8.3 the regular checkpoints attempt to spread out the buffer writes and we can witness it working well.  Pretty neat.</p>
+
+<p>With all these probes, the questions you can ask can be quite interesting. Particularly, how many xlog inserts did a query induce, or how many buffers did a query dirty.  All as simple as a few lines of DTrace script now... in production... no configuration changes required.</p>
+
+<p>Being able to ask systemic questions is of fundamental importance when troubleshooting problems.  DTrace is built around the concept that things should be looked at systemically.  However, to support that, we need applications to assist by exposing USDT probes in the "right places."  We've started a project here at OmniTI called <a href="https://labs.omniti.com/trac/project-dtrace">Project DTrace</a> that aims to do just that.  It's open, please join in!</p>

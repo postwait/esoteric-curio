@@ -1,0 +1,12 @@
+title: ApacheCon EU 2006 begins.
+date: 2006-06-26 13:36:14
+---
+
+<p><a href="http://www.eu.apachecon.com/">ApacheCon EU</a> started this morning in Dublin Ireland.  The first two days are comprised of only tutorials, so it is mostly quiet and full of hacking.  Wednesday through Friday have all the sessions, so it should be lively.  And... damn is the Guinness good.</p>
+
+<p>My "<a href="http://www.eu.apachecon.com/konferenzen/psecom,id,488,track,5,nodeid,,_language,uk.html#session-moh2">Advanced Production Troubleshooting</a>" presentation this morning went of without a hitch.  It was the first time I  gave the presentation, so there is a lot of room for improvment and I have many good ideas for the next go.  For those interested, here is the <a href="http://images.omniti.net/www.omniti.com/~jesus/misc/production-troubleshooting.pdf">PDFd slide stack for Advanced Production Troubleshooting</a>.  A vast majority of the talk is... well... talking.  So, the PDFs are certainly missing something without the dialog.  I have a lot of anecdotes of disasters and both failed and successful troubleshooting attempts that were only in the oration -- next time you should attend ;-)</p>
+
+<center>
+<a href="http://images.omniti.net/www.omniti.com/~jesus/misc/production-troubleshooting.pdf"><img src="http://images.omniti.net/www.omniti.com/~jesus/misc/production-troubleshooting.jpg" height=247 width="320"><br />
+Advanced Production Troubleshooting</a>
+</center>

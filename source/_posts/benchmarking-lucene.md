@@ -1,0 +1,66 @@
+title: Benchmarking Lucene
+date: 2006-12-25 05:01:54
+---
+
+<p>I've been working with <a href="http://people.planetpostgresql.org/xzilla/">Robert</a> on benchmarking some search solutions.  He's done quite a bit of work loading and transforming the <a href="http://www.citizendium.org/">citizendium</a> data into Postgres and <a href="http://people.planetpostgresql.org/xzilla/index.php?/archives/278-PostgreSQL-full-text-search-testing.html">testing</a> <a href="http://people.planetpostgresql.org/xzilla/index.php?/archives/280-PostgreSQL-full-text-search-testing-PART-II.html">tsearch2</a>.  Now we're supposed to run all this stuff head to head against <a href="http://lucene.apache.org/">Lucene</a> to see how PostgreSQL can hold up against Lucene.</p>
+
+<p>Yes, Lucene is specifically designed for search, but there are many advantages to using something like PostgreSQL is it performs on par.  The details of the search can be described more articulately in SQL than in a search grammar.  Additionally, it would allow us to later join the search results against "other" data for the purposes of simple intersection as well as altering the relevance based on some piece of data known outside of Lucene.  Of course, one could simply go reindex the dataset with the new data, but using SQL one can easily just alter the SQL expression to achieve the desired results.  So, Robert tested tsearch2 in postgres and came up with some pretty reasonable results on the 3.5 million document dataset -- a sustained 350 qps with no tuning.  I figure we could easily up that by 50% with some elbow grease.</p>
+
+<p>There are requirements: (1) data can be added and updated in the index quickly enough and (2) it can scale to 10000 qps.  So, the postgres solution seems reasonable so far, assuming we can bump 350 up to 525 with some effort, we're talking about loading this over a cluster of (10000/525)/0.70 ~ 27 machines.   Why 0.70? -- never run a production system at over 70% capacity regularly.</p>
+
+<p>So, while I am not a big fan of Java, I can certainly code it.  I whipped out Lucene and started to index the data that Rob stuck in the postgres instance:</p>
+
+<h3>Indexing</h3>
+
+<p>The net result of the indexing process was indexing a two long integers, a date, a static text token and two english paragraphs (tokenized) as well as a varying set of "tag" data (untokenized, individual words).</p>
+
+<pre>
+3741453ms indexing 3639937 documents.
+</pre>
+
+<p>That's about 970 documents/second.  That will certainly meet the requirements for new indexing.</p>
+
+<h3>Searching</h3>
+
+<p>A simple test of search terms limited to documents in the 30 days varies widely with concurrency, like:</p>
+
+<pre>
++(description:honda) +(description:atv) +(description:aftermarket) \\
+\t+(description:oem) +(description:handlebars) \\
+\t+(created_on:[20061121 TO 20070101])
+</pre>
+
+<p>So, the first lesson learned is that Lucene is quite sensitive to concurrency.</p>
+<style>
+<!--
+.rj td, th {
+  text-align: right;
+}
+-->
+</style>
+<table class="rj">
+  <tr><th>concurrency</th><th>qps</th></tr>
+  <tr><td>1</td><td>69</td></tr>
+  <tr><td>10</td><td>306</td></tr>
+  <tr><td>20</td><td>273</td></tr>
+  <tr><td>50</td><td>185</td></tr>
+  <tr><td>100</td><td>abort/segv/java explosion</td></tr>
+</table>
+
+<p>300 queries per second isn't abysmal, but certainly not what I was expecting.</p>
+
+<h3>Removing the date restriction</h3>
+
+<p>Now we issue queries like:</p>
+<pre>
++(description:kenwood) +(description:area) +(description:in) \\
+\t+(description:bethesda) +(description:maryland)
+</pre>
+
+<p>1257 queries per second.  Not too shabby.</p>
+
+<h3>Next steps</h3>
+
+<p>Assuming that we have a mix of date range search, full text searches and tag searches, we can guesstimate around 800 queries per second.  (10000/800)/0.70 comes to about 18 servers.  Not so bad.</p>
+
+<p>I have to say I'm a little surprised I didn't see faster numbers here.  PostgreSQL has a lot of overhead (maintaining MVCC and all the other ACID guarantees) and chimes in with a very very respectable 350 qps.</p>

@@ -1,0 +1,15 @@
+title: ApacheCon EU 2006 (postdate, last week)
+date: 2006-07-03 18:57:13
+---
+
+<p>So, I was supposed to blog about what happened at ApacheCon while I was there.  Yes, I get it, blog it as it happens, but I'm just too lazy for that.  I had good reason to be tired though.  I talked for 9 hours!</p>
+
+<p>I had originally been scheduled to give a 3 hour tutorial on Monday morning and then another 3 hour tutorial on Tuesday afternoon.  So, given that I had nothing to do Tuesday morning (at least nothing requiring speaking skills) I decided to stay up late with <a href="http://shiflett.org/">Chris</a> working on slides and such.  Well, I wake up the next morning and troll down to breakfast (a damn good Irish breakfast too) and I learn that the tutorial on mod_proxy and load balancing has been cancelled.  For those of you who have been to ApacheCon over the last several year, you know I have given that talk about 5 times.  After some deliberation, I decided to test my extemporaneous speaking skills and give an off-the-cuff 3 hour tutorial on load-balancing.</p>
+
+<p>So, I didn't much like the slide stack I was handed.  It talked a lot about mod_proxy, which is fine, but focused a bit too much (as in more than zero slides) on the features that no one really uses.  Regardless, I blew through the slide stack inside 40 minutes... (I speak fast).  So, I moved on to present information about general load balancing techniques and tools as well as implementing highly available systems.  However, I blew through that stack in about an hour.  So, then I moved onto clustered logging which used up the rest of the time quite nicely.  While the delivery wasn't the most elegant and flowing, I think the tutorial went rather well and I got some decent feedback at the end of it all.</p>
+
+<p>Later that afternoon, I delivered my Scalable Internet Architectures talk which went well.  All I learned is that talking for 9 hours in two days it tiring.  Oh yeah, and Guinness is refreshing.  For those that are interested, here's the slide stack from SIA.  As should be disclaimed with all slide stacks -- there is a lot of oratory that goes with this presentation which means that it makes much more sense if you actually listen to it too.  <a href="http://www.us.apachecon.com/">Next time, come!</a></p>
+
+<center>
+<a href="http://images.omniti.net/www.omniti.com/~jesus/misc/Scalable Ti.pdf"><img width="320" height="240" src="http://images.omniti.net/www.omniti.com/~jesus/misc/Scalable-Ti-onepage.jpg"></a>
+</center>

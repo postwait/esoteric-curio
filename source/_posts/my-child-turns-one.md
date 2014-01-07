@@ -1,0 +1,10 @@
+title: My child turns one...
+date: 2003-10-11 01:36:00
+---
+
+So about a year ago, my wife underwent the tremendous trauma of birthing my wonderful daughter Zoe.  Many claim there is a beauty in childbirth.  Believe me, it is metaphoric.  That happiness and wonderment that follow cannot be doubted, but the the process itself is all-in-all barbaric.
+
+<p>Never-the-less, Zoe is here and is wonderful.  Her impact on my life has been complete and awesome.  Her introduction into my life was sudden and over the past year my priorities and all of my personal relationships have changed to a fundamental shift in perspective.  I can't say that I have grossly different opinions now, but rather a shift in my point of view.</p>
+
+<p>While Zoe is not yet participating in intelligible dialogue just yet, she does manage to deliver dynamic and extensive sililoquies that are unintelligible to my aged ears.  She yearns to speak, but refuses to be schooled.  I have tried countless times and continue to try to teach Zoe to say "book."  Alas, only babel.</p>
+
