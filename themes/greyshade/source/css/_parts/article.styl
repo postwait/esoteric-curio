@@ -120,6 +120,20 @@ article
         height 60%
         margin-top 0
         margin-left auto
+
+    ul.laundry
+      display inline
+      list-style-type none
+      margin-left: 0
+      li
+        display inline
+        &:after
+          content ","
+        &:last-child:before
+          content "and "
+        &:last-child:after
+          content: ""
+
 .share
   padding 15px 0
   border-shadow()
