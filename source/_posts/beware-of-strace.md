@@ -58,7 +58,7 @@ hang...   hang...  **HELLO?!?!**, so I CTRL-Z to get my session back.
 
 Well, a `ps auxww | grep 14983` shows my traced process STOPped.  That's not good, it was **supposed** to be doing 300 messages/second and I started doing this because 30 messages/second was too slow.  Now its doing 0 message/second.  Shit.  `kill -CONT 14983`... nothin'.  `ps auxww | grep strace` show my strace at 15031 not killed -- it is STOPped as expected.  `kill -CONT 15031`... nothin'.  `kill 15031`... nothin'.  Fine, be that way: `kill -9 15031`.  That worked.
 
-Now let's see how if out process is back and running or if it is still in a STOP state needing a SIGCONT to go on with life.
+Now let's see how if our process is back and running or if it is still in a STOP state needing a SIGCONT to go on with life.
 
     # ps auxww | grep 14983 root
     15053  0.0  0.0  4760  672 pts/2    R+   09:21   0:00 grep 14983
