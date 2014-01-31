@@ -50,7 +50,9 @@ Now that I've got the file descriptors related to my network connections, let's 
 
 So, you lose a little bit above without timings (and yse you could get those with -ttt), but I see that the read()s on fd 11 are hanging...  Mission accomplished.  I hit CTRL-C to stop tracing...
 
-    Process 14983 detached Process 14984 detached Process 14985 detached ...
+    Process 14983 detached
+    Process 14984 detached
+    Process 14985 detached
  
 hang...   hang...  **HELLO?!?!**, so I CTRL-Z to get my session back.
 
