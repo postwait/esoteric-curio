@@ -7,6 +7,7 @@ tags:
 - PostgreSQL
 - Rambling
 - Writing
+- Advice
 ---
 
 I've built a few successful products and looking back on their success, I think that the mantra that drove product development is what separated our products from the rest of the market: "products built from pain." All of the products we've built were done so to relieve acute pain. Not pain we researched; pain we experienced.  We built products and changed the world of software because our lives sucked.

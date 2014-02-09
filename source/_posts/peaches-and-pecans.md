@@ -6,6 +6,7 @@ tags:
 - OpenSolaris
 - PostgreSQL
 - Rambling
+- Advice
 ---
 
 Peaches and pecans on vanilla ice cream is a wonderful thing, but get some perspective on how you came to enjoy it.  I have heard (and have told others), “life is too short to do something you don’t enjoy,” but the truth is there is no way to revel in everything you do at every moment; not even the most ambitious and determined hedonist can achieve this.  While I don’t think he was right about everything, I feel confident Sigmund Freud nailed this one: “We are so made, that we can only derive intense enjoyment from a contrast and only very little from a state of things.” So, not only can we not enjoy everything, that which we do enjoy is aided by the lack thereof in other things.  Pitting the peaches, cracking the nuts, even making the ice cream heightens the experience of its ultimate, decadent demise.

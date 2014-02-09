@@ -6,6 +6,7 @@ tags:
 - OpenSolaris
 - PostgreSQL
 - Rambling
+- Advice
 ---
 
 Business is king. Customers rule. Service is everything.  Yet every organization I go into has an engineering group that can't see outside their bubble.  Perhaps they can, but they certainly choose not to.
