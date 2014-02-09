@@ -10,6 +10,8 @@ excerpt_link: Continue →
 mathjax: true
 fancybox: true
 
+google_analytics: UA-1004645-1
+
 social:
   twitter: true
   github: true
