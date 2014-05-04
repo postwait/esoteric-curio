@@ -11,6 +11,7 @@ mathjax: true
 fancybox: true
 
 google_analytics: UA-1004645-1
+google_analytics_domain: lethargy.org
 
 social:
   twitter: true
