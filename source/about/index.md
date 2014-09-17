@@ -8,7 +8,7 @@ I was born in 1978 and was a military brat. My formative primary education took 
 
 I started dating my future wife in 1995. We were quasi-high-school sweethearts. Note: I wasn't in high school. Four years later, we were married. Fun fact: we eloped, but most people at our wedding had no idea. Together [Lisa](http://lisabmrss.blogspot.com/) and I have three wonderful daughters.
 
-I love food. In particular, I love meat. I thoroughly enjoy a great number of vices including fine [scotches, bourbons, whiskeys](https://plus.google.com/photos?pid=5966160896433091666&oid=113055389836197438036), beer, wine, cigars and bacon.
+I love food. In particular, I love meat. I thoroughly enjoy a great number of vices including fine [scotches, bourbons, whiskeys](https://lh3.googleusercontent.com/-wYdaDTa5f-8/UqegttTscCI/AAAAAAAAEJw/qW50EE8LPf8/w691-h518-no/20131210_181515_LLS.jpg), beer, wine, cigars and bacon.
 
 I practice Bujinkan Budo Taijutsu and Ninjutsu martial arts.
 
