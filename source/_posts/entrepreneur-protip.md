@@ -12,22 +12,22 @@ I started by [first business](http://omniti.com/) in 1997 and then
 proceeded to found [three](http://messagesystems.com/)
 [other](http://fontdeck.com) [companies](http://www.circonus.com/).
 I've been around a bit and understand the stresses of growing a
-company from nothing (no funding) as well as both taking rounds of
+company from nothing (no funding) as well as from taking rounds of
 financing and leveraging debt.
 
 So... here's my advice. (hint: nothing to do with finance)
 
 ## 1. Understand how you cope with the stresses in your life.
 
-You, like everyone else, have stresses and has to cope with them.  As
+You, like everyone else, have stresses and have to cope with them.  As
 an entrepreneur of a growing business you are going to be exposed to
 some very foreign and harsh stresses.  Understanding how you cope with
-stress and having practiced techniques for doing so it pretty much the
+stress and having practiced techniques for doing so is pretty much the
 only thing that will keep you focused, committed, and effective on
 your journey.
 
 > I've cycled through many things: movie nights, boring exercise, rock
-> climbing, martial arts, and crossfit.  Worst: boring exercise (as I
+> climbing, martial arts, and CrossFit.  Worst: boring exercise (as I
 > could still keep my mind in work). Best: martial arts (if I think
 > about work, I literally get punched in the face).
 
@@ -46,7 +46,7 @@ company puts a phenomenal amount of stress on both partners.
 > I've also known when to stop and take a break.  I always tried to
 > average more than 5 hours of sleep per night.  It's important to
 > know that everyone is different and, if you're one of those people
-> that needs 8 hours, that should be your goal.  Remeber, 8 hours of
+> who needs 8 hours, that should be your goal.  Remember, 8 hours of
 > sleep per night leaves 112 hours in the week, so an 80 hour work
 > week is something that is possible and quite likely. Shout out to
 > [my wonderful and strong wife](http://lisabmrss.blogspot.com/).
@@ -56,15 +56,15 @@ company puts a phenomenal amount of stress on both partners.
 There will be some hard times.  Other days will leave you feeling like
 you had three meals of shit sandwiches.  If you don’t have a damn good
 reason to pick yourself up tomorrow and reengage, you won’t. Passion
-is that reason.  For many passion is just the money and while that may
+is that reason.  For many, passion is just the money and while that may
 work, I find that it can be demoralizing to have that be the whole
 picture… because success.
 
-> I'm not sure if every enterpreneur has moments of doubt: "why am I
-> doing this? why do I care?"  But, I sure have and continue to have
+> I'm not sure if every entrepreneur has moments of doubt: "Why am I
+> doing this? Why do I care?"  But, I sure have and continue to have
 > them even 18 years later.  For me, these doubts are usually spawned
 > by a failed deal, a failed goal or a personal argument.  I take a
-> break and do something else that forces your mind away and come
+> break to do something else that forces my mind away then come
 > back.
 
 ## 4. Be able to define success.
@@ -104,7 +104,7 @@ get a lot of shit wrong.  In fact, I’d wager you’re going to get most
 of it wrong.  Neither arrogance nor selective memory turns that
 learning experience into personal improvement.  Awareness,
 introspection, and honesty do that and it’s dramatically easier to
-leverage those character trails with big fat dose of humility.
+leverage those character traits with a big fat dose of humility.
 
 > I personally cherish every time someone on my team proves me wrong.
 > It means I hired the right people. If I was wrong a significant
@@ -118,12 +118,12 @@ leverage those character trails with big fat dose of humility.
 A great entrepreneur, like a great leader, should inspire others into
 their vision.  If you surround yourself with people to do your work
 and lighten your load, you can grow and be good.  If you surround
-yourself with people that are more capable than you, impassion them
+yourself with people who are more capable than you, impassion them
 with your vision and tie successful outcomes to their contributions,
 you will succeed and be great.
 
-> Leading is a hard thing to teach. I attempt to reflecton every
-> action I do and ask myself: will this inspire those around me.
+> Leading is a hard thing to teach. I attempt to reflect on every
+> action I do and ask myself if it will inspire those around me.
 > Sadly, the answer to that is "no" more often than I'd like.  Still,
 > I try hard and those around me see that effort.
 
