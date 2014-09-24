@@ -109,7 +109,7 @@ leverage those character traits with a big fat dose of humility.
 > I personally cherish every time someone on my team proves me wrong.
 > It means I hired the right people. If I was wrong a significant
 > amount of the time, I'd fail. This means, I'm almost always right
-> (yes, I just said that). This also means I must surround yourself
+> (yes, I just said that). This also means I must surround myself
 > with smart people with backbone that are capable of calling me out
 > on my fuckups before it goes too far.
 
