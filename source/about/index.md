@@ -22,7 +22,7 @@ After a very brief stint doing government contracting and watching my soul seep 
 
 [My mother](http://www.linkedin.com/pub/sherry-schlossnagle/1/70/450) and I founded [OmniTI](http://omniti.com/) in 1997 where I was the CEO for 17 years. Two years after starting OmniTI, I was joined by [my brother George](http://www.linkedin.com/pub/george-schlossnagle/0/449/a20). In 2008, we spun off a digital messaging company called [Message Systems](http://www.messagesystems.com/). In 2009 we started a company called [Fontdeck](http://fontdeck.com/) to bring richer typography to the web. In 2010, we spun off a company called [Circonus](http://www.circonus.com/) to change the world of systems montioring to be more data driven.
 
-In 2014, I gave up my position as CEO at OmniTI to focus on Circonus.
+In 2014, I stepped down as CEO at OmniTI to focus on Circonus.
 
 ## Industry
 
