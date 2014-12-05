@@ -10,8 +10,11 @@ I started dating my future wife in 1995. We were quasi-high-school sweethearts. 
 
 I love food. In particular, I love meat. I thoroughly enjoy a great number of vices including fine [scotches, bourbons, whiskeys](https://lh3.googleusercontent.com/-wYdaDTa5f-8/UqegttTscCI/AAAAAAAAEJw/qW50EE8LPf8/w691-h518-no/20131210_181515_LLS.jpg), beer, wine, cigars and bacon.
 
-I practice Bujinkan Budo Taijutsu and Ninjutsu martial arts.
-
+I practice Bujinkan Budo Taijutsu {% sidebar-link 1 %} and Ninjutsu martial arts.
+{% sidebar 1 %}
+### Bujinkan Budo Taijutsu
+is a mixed martial art based on teachings of [Masaaki Hatsumi](http://en.wikipedia.org/wiki/Masaaki_Hatsumi) of Japan.
+{% endsidebar %}
 
 ## Professional
 

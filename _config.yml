@@ -83,3 +83,4 @@ deploy:
 
 plugins:
 - hexo-generator-feed
+- hexo-sidebar
