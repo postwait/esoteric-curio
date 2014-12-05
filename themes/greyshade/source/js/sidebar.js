@@ -4,8 +4,10 @@
       var id = $(this).attr("id");
       var tgtid = '#' + id.replace(/^sidebar-link-/, "sidebar-");
       (function(id, link) {
-        $(link).hover(function() { $(id).removeClass("sidebar-hidden"); },
-                      function() { $(id).addClass("sidebar-hidden"); });
+        $(link).click(function() {
+          $(".sidebar").not(id).addClass("sidebar-hidden");
+          $(id).toggleClass("sidebar-hidden");
+        });
       })(tgtid, this);
     });
   });
