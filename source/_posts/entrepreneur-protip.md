@@ -8,9 +8,9 @@ resulted in nothing more than a cacophony of conflicting advice.  Some
 of that advice was (in my opinion) bad.  What better way to fix this
 than add my own!
 
-I started by first business {% sidebar-link omniti %} in 1997 and then
-proceeded to found three other companies {% sidebar-link fontdeck %},
-{% sidebar-link messagesystems %}, and {% sidebar-link circonus %}.
+I started by first business OmniTI{% sidebar-link omniti %} in 1997 and then
+proceeded to found three other companies: Fontdeck{% sidebar-link fontdeck %},
+MessageSystems{% sidebar-link messagesystems %}, and Circonus{% sidebar-link circonus %}.
 I've been around a bit and understand the stresses of growing a
 company from nothing (no funding) as well as from taking rounds of
 financing and leveraging debt.
