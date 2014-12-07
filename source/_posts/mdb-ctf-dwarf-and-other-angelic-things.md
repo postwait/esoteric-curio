@@ -3,7 +3,7 @@ date: 2014-12-05 22:56:15
 tags: code
 ---
 
-So what's the all about then? Debugging. I've written a lot of C, I still
+So what's this all about then? Debugging. I've written a lot of C, I still
 write a lot of C and I sure as hell end up debugging a lot of C. One thing
 that pisses me off is when I've got a core file, but I've no idea about
 the exact version or build of the ELF binary that produced it. The bottom
