@@ -330,6 +330,7 @@ doesn't have the source code, yet it know about the types.
 As expected, it has been `0xdeadbeef`'d from the previous free.  Double free confirmed.
 This rather obvious bug (in `word_get_meta`) is left as an exercise to the reader.
 
-We have some memory leaks in this... which I'll tackle in the next post.  The `libck.so`
+We have some memory leaks in this... which I'll tackle in the
+[next post](/~jesus/writes/mdb-custom-dmods).  The `libck.so`
 makefile target should be foreshadowing for the advanced programmer.
 
