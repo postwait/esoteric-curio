@@ -15,6 +15,9 @@
   title.push(config.title);
   %>
   <title><%= title.join(' | ') %></title>
+  <% if (page.posts && page.posts.first()) { %>
+  <link rel="canonical" href="<%- config.root %><%- page.posts.first().path %>" />
+  <% } %>
   <% if (config.author){ %><meta name="author" content="<%= config.author %>"><% } %>
   <% if (page.description){ %>
   <meta name="description" content="<%= page.description %>">
