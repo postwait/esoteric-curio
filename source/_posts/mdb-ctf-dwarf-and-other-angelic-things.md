@@ -36,7 +36,7 @@ extensibility.
 Before we dive into the awesomeness of mdb, we're going to be pretty damn
 disappointed if we didn't build our binaries right.  My hope is that in
 the very near future, the Illumos linker will do all of this magically
-for you, but for now we have to roll up our sleaves and get CTF into
+for you, but for now we have to roll up our sleeves and get CTF into
 our binaries.
 
 CTF (or Compressed Type Format) is basically definitions of data types and
@@ -81,13 +81,13 @@ many cores) it has advanced debugging features to help pinpoint memory
 misuse and leakages.
 {% endsidebar %}
 
-The program will read all of the words in the dictionary, and store them in
+The program will read all of the words in the dictionary and store them in
 a hash table along side some metadata about their length an the number of
 capital vs. lowercase letters in them.  Simple, pointless, but resembles
-real and useful code in that it allocated memory and puts it in a data
+real and useful code in that it allocates memory and puts it in a data
 structure.
 
-For our hash table implementtion, I'll simply use the excellent
+For our hash table implementtion, I'll use the excellent
 one from [Concurrency Kit](http://www.concurrencykit.org/).
 
 First our Makefile:
