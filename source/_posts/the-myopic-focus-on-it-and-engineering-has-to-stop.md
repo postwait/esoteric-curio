@@ -1,11 +1,7 @@
 title: The myopic focus on IT and engineering has to stop.
 date: 2012-08-27 11:30:49
 tags: 
-- BWPUG
 - Damaged Bits
-- OpenSolaris
-- PostgreSQL
-- Rambling
 - Advice
 ---
 

@@ -2,7 +2,6 @@ title: MDB, CTF, DWARF, and other angelic things
 date: 2014-12-05 22:56:15
 tags:
 - Damaged Bits
-- code
 - Illumos
 - OmniOS
 - SmartOS
