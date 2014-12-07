@@ -9,10 +9,13 @@
  <%
   var tags = [];
   item.tags.forEach(function(tag){
-    tags.push('<a href="' + config.root + tag.path + '">' + tag.name + '</a>');
+    if(tag.name)
+      tags.push('<a href="' + config.root + tag.path + '">' + tag.name + '</a>');
   });
  %>
- <<%- attr %> class="tags">
-   <%- tags.join(', ') %>
- </<%- attr %>>
+ <% if(tags.length) { %>
+  <<%- attr %> class="tags">
+    <%- tags.join(', ') %>
+  </<%- attr %>>
+ <% } %>
 <% } %>
