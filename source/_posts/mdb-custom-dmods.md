@@ -39,7 +39,7 @@ CACHE             LEAKED           BUFCTL CALLER
 ```
 
 An estute coder might quickly identify the problem by just reviewing the code,
-however, it larger systems this can be far more daunting, so we'll take a
+however, in larger systems this can be far more daunting, so we'll take a
 leap of faith and consider this leakage puzzling.
 
 One problem is that we have all of our data up in this hash table and it
