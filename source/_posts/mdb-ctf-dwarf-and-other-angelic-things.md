@@ -215,7 +215,15 @@ int main() {
 }
 ```
 
-Now, we compile it and run it and the bugs will come nibbling at us:
+Now, we compile it. `ctfconvert` will take the DWARF sections in the object
+files and convert them into CTF sections (rewriting the object file).
+Remember the `-g`, or else the original DWARF section will be removed in
+the process.  `ctfmerge` does the same thing but for the final target: it
+taks the CTF sections in all the object files and merges them into a single
+CTF section in the target binary by rewriting it (and yes, you need `-g` in
+this step too else bye-bye DWARF section.
+
+Next we run it (with UMEM_DEBUG enabled) and the bugs will come nibbling at us:
 
 ``` bash shell
 # make myprog
