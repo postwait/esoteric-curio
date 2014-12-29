@@ -4,6 +4,8 @@ date: 2014-01-26 11:45:08
 
 ## Personal
 
+<img width="300" height="453" src="/~jesus/misc/9096812268_696c02dcb7_s.jpg" style="float:right; margin-left:1em; margin-bottom:0.5em; padding:0.2em; height:453px; width:300px; border:1px solid #aaa"/>
+
 I was born in 1978 and was a military brat. My formative primary education took place in Howard County, Maryland. I skipped a few grades and in 1994 I matriculated to [The Johns Hopkins University](http://www.jhu.edu/) where I started pursuing a dual degree in Electrical Engineering and Physics; neither of which were achieved. In 1997, I received my B.S.E. in Computer Science and entered the Ph.D. program in the [Center for Networking and Distributed Systems](http://www.cnds.jhu.edu/). 1998 rolled around delivering me my M.S.E. in Computer Science where I focused on graphics and randomized algorithms in distributed systems.  I went on to research resource allocation techniques in distributed systems during four years of post-graduate work where in 2003 I was asked to leave the Ph.D. program, but that's a story is only told after you buy me a beer.
 
 I started dating my future wife in 1995. We were quasi-high-school sweethearts. Note: I wasn't in high school. Four years later, we were married. Fun fact: we eloped, but most people at our wedding had no idea. Together [Lisa](http://lisabmrss.blogspot.com/) and I have three wonderful daughters.
