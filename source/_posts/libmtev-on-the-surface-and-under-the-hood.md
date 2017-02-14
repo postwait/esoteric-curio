@@ -33,13 +33,13 @@ libmtev provides robust facilities above and beyond a non-blocking and asynchron
 
 ### Eventer
 
-Typical event loop systems run a single loop and allow the programmer to register actions to fire on different types of "activity."  The libmtev eventer does that, but with considerably sophistication.  Instead of a single thread running an event loop, the system can exploit multiple cores by running pools of threads, each with their own loop; this pool of threads is an `eventer_pool_t`.  In addition to the standard pool of event loop threads, one can establish alternative pools (with different concurrency and supervisor parameters). It also handles "asynchronous" events by scheduling them into thread pools (called `eventer_jobq_t`).
+Typical event loop systems run a single loop and allow the programmer to register actions to fire on different types of "activity."  The libmtev eventer does that, but with considerably more sophistication.  Instead of a single thread running an event loop, the system can exploit multiple cores by running pools of threads, each with their own loop; this pool of threads is an `eventer_pool_t`.  In addition to the standard pool of event loop threads, one can establish alternative pools (with different concurrency and supervisor parameters). It also handles "asynchronous" events by scheduling them into thread pools (called `eventer_jobq_t`).
 
-Every event callback in the system has a full latency profile tracked in in histograms via libcircmetrics.
+Every event callback in the system has a full latency profile tracked in histograms via libcircmetrics.
 
 #### Native TLS Support
 
-The evneter virtualizes the read/write/accept/close operations on file descriptor based events.  This provides a simple way of switching a session from plain text to TLS.  Complete control over the negotiation of the secure session is possible programmatically and via configutation.
+The eventer virtualizes the read/write/accept/close operations on file descriptor based events.  This provides a simple way of switching a session from plain text to TLS.  Complete control over the negotiation of the secure session is possible programmatically and via configutation.
 
 ### Configuration
 
@@ -49,11 +49,11 @@ Two extensions are built into the configuration framework allowing for included 
 
 ### Supervisor (Watchdog)
 
-libmtev has a built-in surpervisor framework that can provide automatic restarts on crash as well as tracing of managed processes.  Internally this system is called the "watchdog."  A watchdog can set per event loop in any (and all) `eventer_pool_t` in the system such that if something gets "stuck" the process will b e terminated and restarted; think deadman timer.  Additionally, the watchdog can look for unexpectedly terminated processes (crashes) and perform tracing and restarts.
+libmtev has a built-in surpervisor framework that can provide automatic restarts on crash as well as tracing of managed processes.  Internally this system is called the "watchdog."  A watchdog can set per event loop in any (and all) `eventer_pool_t` in the system such that if something gets "stuck" the process will be terminated and restarted; think deadman timer.  Additionally, the watchdog can look for unexpectedly terminated processes (crashes) and perform tracing and restarts.
 
 ### Logging
 
-The logging framework within libmtev has several implementations and is extensible via module.  In memory ring-buffers, simple files and journal logs (libjlog) are built in.  Files support rotation based on time and/or size leaving the "current desination" file having the same name.  All logging is lock-free.  An arbitrary number of log facilities can be created in the system and are connected into a directed acyclic graph.  Facilities can be disable or enabled via configuration or programmatically.  The loggin integrates with DTrace where available.
+The logging framework within libmtev has several implementations and is extensible via module.  In memory ring-buffers, simple files and journal logs (libjlog) are built in.  Files support rotation based on time and/or size leaving the "current desination" file having the same name.  All logging is lock-free.  An arbitrary number of log facilities can be created in the system and are connected into a directed acyclic graph.  Facilities can be disable or enabled via configuration or programmatically.  The logging integrates with DTrace where available.
 
 ### Network Listeners
 
