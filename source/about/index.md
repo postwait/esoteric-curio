@@ -30,7 +30,11 @@ From July 2015 until March 2016, I took a sabbatical to [travel the world with m
 
 ## Industry
 
-I sit on the [ACM Professions/Practitioners Board](http://learning.acm.org/about/professions_board.cfm) and the [ACM Queue Editorial board](http://queue.acm.org/editorialboardx.cfm).
+I am very active with the ACM{% sidebar-line acm %}I sit on the [ACM Professions/Practitioners Board](http://learning.acm.org/about/professions_board.cfm) and the [ACM Queue Editorial board](http://queue.acm.org/editorialboardx.cfm).
+
+{% sidebar acm %}
+The [ACM](http://acm.org) is the Association for Computing Machinery and the oldest professional organization dedicated to computer science.  Its mission is to advancing computing as a science and profession.
+{% endsidebar %}
 
 I wrote a book on [Scalable Internet Architectures](http://www.amazon.com/exec/obidos/ASIN/067232699X/lethargy-20/104-9600898-8379162?_encoding=UTF8&camp=1789&link_code=xm2) and the first chapter of [Web Operations](http://www.amazon.com/gp/product/1449377440/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449377440&linkCode=as2&tag=lethargy-20).
 
