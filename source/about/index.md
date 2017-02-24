@@ -30,7 +30,7 @@ From July 2015 until March 2016, I took a sabbatical to [travel the world with m
 
 ## Industry
 
-I am very active with the ACM{% sidebar-line acm %}I sit on the [ACM Professions/Practitioners Board](http://learning.acm.org/about/professions_board.cfm) and the [ACM Queue Editorial board](http://queue.acm.org/editorialboardx.cfm).
+I am very active with the ACM{% sidebar-link acm %}I sit on the [ACM Professions/Practitioners Board](http://learning.acm.org/about/professions_board.cfm) and the [ACM Queue Editorial board](http://queue.acm.org/editorialboardx.cfm).
 
 {% sidebar acm %}
 The [ACM](http://acm.org) is the Association for Computing Machinery and the oldest professional organization dedicated to computer science.  Its mission is to advancing computing as a science and profession.
