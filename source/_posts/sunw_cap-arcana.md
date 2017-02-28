@@ -10,12 +10,12 @@ eye opening and fascinating.  Mostly, the purpose is so that I don't
 have to discover this for the third time and can, at some later date,
 Google this, find my own article, and simply read about it.
 
-This is a tail of linkers and code optimization and perhaps the most
+This is a tale of linkers and code optimization and perhaps the most
 elegant ELF loader magic I've ever seen.
 
 ## Backgrounder
 
-Modern chipsets are pretty badass. They can do amazing things. The new
+Modern processors are pretty badass. They can do amazing things. The new
 Intel chips on the horizon will have a single instruction for computing
 a SHA256 hash (or so I'm led to believe).  The various magical
 instructions (or classes of instructions) you can issue on a current
@@ -27,11 +27,11 @@ A simple example is the cx16 set of instructions that allow the atomic
 comparing and swapping of 16 bytes of data (two 8-byte pointers).  This
 instruction affords the programmer the tooling to build some powerful
 lockless datastructures. So, as a packager you want everyone to have the
-best the can, but not everyone has the same chips, so what to do?
+best they can, but not everyone has the same chips, so what to do?
 
 OpenSSL solves this issue by compiling several implementations of a given
 hot function (from hand-coded assembly), names them different things and
-at startup will check the CPU identified to map out what it can and can't
+at startup will check the CPU identifier to map out what it can and can't
 do.  This is effective, but suboptimal b/c the entry into these functions
 is riddled with branches based on this variable capability set.  If you
 look at other software, the vast majority simply ship the lowest common
@@ -42,8 +42,8 @@ Gentoo community has been the butt of this joke for some time:
 
 ## Operating Systems
 
-Operating systems run on chips, of course. It stands to reason that if
-an application can check a set of CPU capabilities, then theh operating
+Operating systems run on processors, of course. It stands to reason that if
+an application can check a set of CPU capabilities, then the operating
 system can as well.  On Linux this is exposed via `/proc/cpuinfo`, but
 on Illumos, you can run the command `isainfo -v` to see what your
 processors are capable of.  This is from a VM on my laptop:
@@ -76,7 +76,7 @@ You'll note that while largely the same, the production server can do some
 things that my laptop cannot:
 [AVX2 instructions](https://software.intel.com/en-us/node/523876),
 [FMA instructions](https://en.wikipedia.org/wiki/FMA_instruction_set),
-and [F16C instructions)[https://en.wikipedia.org/wiki/F16C] to name a few.
+and [F16C instructions](https://en.wikipedia.org/wiki/F16C) to name a few.
 
 So, if the operating system knows that they are there and the operating
 system is responsible for running my binaries, could it assist in selecting
@@ -98,7 +98,7 @@ I'm referring to the run-time linker arcana.
 
 ELF stands for "Executable and Linking Format" and is the predominant
 specification adhered to by modern UNIX platforms (Mac OS X being the
-standout exception).  It is a robust format for layout all things
+standout exception).  It is a robust format for laying out all things
 important to a binary (or shared library) such that they can be
 assembled into a running process within UNIX.  Herein, `elfdump` is
 your best friend.
@@ -250,7 +250,7 @@ The same holds for the `avx2` variants we've created.
 
 #### Step 2. Alter our symbols
 
-The ld `-z symbolcap` (undocumented) option will take the .SUNW_cap header
+The (undocumented) ld option `-z symbolcap` will take the .SUNW_cap header
 from an object and fold the capabilities naming into the symbol names and
 annotate the chain to include that there is an available symbol with that
 stated capability.
@@ -371,7 +371,7 @@ AVX2 foo...
 
 The system has two HW capabilities profiles.  It notices the current
 capabilities at ld.so.1 invocation time and then applies them to
-the loading of `libfoo.so` and selects the highest matching profile.
+the loading of `libfoo.so` and selects the best matching profile.
 
 ## Summary
 
