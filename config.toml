@@ -7,8 +7,8 @@ theme = "tranquilpeak"
 disqusShortname = "postwait"
 googleAnalytics = "UA-1004645-1"
 paginate = 7
-canonifyurls = true
-relativeURLS = true
+canonifyURLs = false
+relativeURLs = true
 
 [permalinks]
   post = "/:slug"
