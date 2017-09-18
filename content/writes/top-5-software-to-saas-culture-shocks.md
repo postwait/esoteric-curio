@@ -1,9 +1,10 @@
-title: Top 5 "software to saas" culture shocks.
+---
+title: "Top 5 'software to saas' culture shocks."
 date: 2011-03-02 02:54:54
-tags: 
+type: post
+categories: 
 - Damaged Bits
-- OpenSolaris
-- PostgreSQL
+- Advice
 ---
 
 At OmniTI, I've been a part of writing a lot of open source software, my fair share of closed source software.  Some of it has been shipped and some of it has been operated as a service.  While it is possible (and quite useful) to take what one learns in one scenario and apply it to another, some things simply translate poorly.

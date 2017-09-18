@@ -1,8 +1,11 @@
-title: libmtev: on the surface and under the hood.
+---
+title: "libmtev: on the surface and under the hood."
 date: 2017-02-14 08:28:56
+type: post
+categories:
+- Damaged Bits
 tags:
-- C
-- Programming
+- programming
 ---
 
 I haven't talked much publicly about [libmtev](https://github.com/circonus-labs/libmtev), but I think it might be about time to start.  The C programming language isn't going to die anytime soon and it has some distinct performance over some of the more populate emerging languages: the compilers are the most mature and there is no garbage collection{% sidebar-link gc %} (so no GC pauses).  Alas, this isn't about C as a language, but about the library that I started (within [another project](https://github.com/circonus-labs/reconnoiter)) in 2007.  It has become its own beast and now is the underpinning of many of the technologies we build at [Circonus](https://www.circonus.com/) such as [IRONdb](https://www.circonus.com/irondb/).

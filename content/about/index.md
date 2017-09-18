@@ -1,5 +1,5 @@
-title: A bit of background
-date: 2014-01-26 11:45:08
+---
+title: "A bit of background"
 ---
 
 ## Personal
@@ -12,11 +12,7 @@ I started dating my future wife in 1995. We were quasi-high-school sweethearts. 
 
 I love food. In particular, I love meat. I thoroughly enjoy a great number of vices including fine [scotches, bourbons, whiskeys](https://lh3.googleusercontent.com/-wYdaDTa5f-8/UqegttTscCI/AAAAAAAAEJw/qW50EE8LPf8/w691-h518-no/20131210_181515_LLS.jpg), beer, wine, cigars and bacon.
 
-I practice Bujinkan Budo Taijutsu {% sidebar-link 1 %} and Ninjutsu martial arts.
-{% sidebar 1 %}
-### Bujinkan Budo Taijutsu
-is a mixed martial art based on teachings of [Masaaki Hatsumi](http://en.wikipedia.org/wiki/Masaaki_Hatsumi) of Japan.
-{% endsidebar %}
+I practice Bujinkan Budo Taijutsu [^fn:1] and Ninjutsu martial arts.
 
 ## Professional
 
@@ -30,11 +26,7 @@ From July 2015 until March 2016, I took a sabbatical to [travel the world with m
 
 ## Industry
 
-I am very active with the ACM{% sidebar-link acm %}I sit on the [ACM Professions/Practitioners Board](http://learning.acm.org/about/professions_board.cfm) and the [ACM Queue Editorial board](http://queue.acm.org/editorialboardx.cfm).
-
-{% sidebar acm %}
-The [ACM](http://acm.org) is the Association for Computing Machinery and the oldest professional organization dedicated to computer science.  Its mission is to advancing computing as a science and profession.
-{% endsidebar %}
+I am very active with the ACM [^fn:2] I sit on the [ACM Professions/Practitioners Board](http://learning.acm.org/about/professions_board.cfm) and the [ACM Queue Editorial board](http://queue.acm.org/editorialboardx.cfm).
 
 I wrote a book on [Scalable Internet Architectures](http://www.amazon.com/exec/obidos/ASIN/067232699X/lethargy-20/104-9600898-8379162?_encoding=UTF8&camp=1789&link_code=xm2) and the first chapter of [Web Operations](http://www.amazon.com/gp/product/1449377440/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449377440&linkCode=as2&tag=lethargy-20).
 
@@ -67,3 +59,8 @@ I've worked on a lot of open source software:
 <li><a title="Kayak Installer" href="https://github.com/omniti-labs/kayak">Kayak Network Installer</a></li>
 <li><a title="Illumos" href="http://github.com/illumos/illumos-gate">Illumos</a></li>
 </ul>
+
+[^fn:1]: Bujinkan Budo Taijutsu is a mixed martial art based on teachings of [Masaaki Hatsumi](http://en.wikipedia.org/wiki/Masaaki_Hatsumi) of Japan.  
+
+[^fn:2]: The [ACM](http://acm.org) is the Association for Computing Machinery and the oldest professional organization dedicated to computer science.  Its mission is to advancing computing as a science and profession.
+

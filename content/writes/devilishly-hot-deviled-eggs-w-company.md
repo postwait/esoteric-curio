@@ -1,7 +1,11 @@
-title: Devilishly Hot Deviled Eggs w/ Company
+---
+title: "Devilishly Hot Deviled Eggs w/ Company"
 date: 2011-01-23 18:32:35
-tags: 
-- Food
+type: post
+categories: 
+- food
+tags:
+- sriracha
 ---
 
 <iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=lethargy-20&o=1&p=8&l=as1&m=amazon&f=ifr&md=10FE9736YVPPT7A0FBG2&asins=1607740036" style="float:right;width:120px;height:240px;margin:0.5em;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>

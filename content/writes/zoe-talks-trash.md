@@ -1,5 +1,9 @@
-title: Zoe talks trash
-date: 2004-01-25 02:44:00
+---
+title: "Zoe talks trash"
+date: 2004-01-25T02:44:00-04:00
+type: post
+categories:
+- family
 ---
 
 <p><a href="http://www.lethargy.org/cgi-bin/photo/index.cgi?album=/Family/Zoe+the+Toddler+Part+I&mode=viewpicture&picture=IMG_1166.JPG" onclick="window.open('http://www.lethargy.org/cgi-bin/photo/index.cgi?album=/Family/Zoe+the+Toddler+Part+I&mode=viewpicture&picture=IMG_1166.JPG','popup','width=1600,height=1200,scrollbars=yes,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="/~jesus/uploads/IMG_1166.serendipityThumb.jpg " align="left" style="border: 0px; padding-right: 8px; padding-bottom: 8px; float: left;" longdesc="Zoe -- talking trash" /></a></p>  <p>So, I have been anxiously awaiting Zoe's first intelligible conversation.  Every time I think she is a step closer.... she's not.  She has been saying the words "dog and duck" for a while now (about a month), but she has trouble with the last consonant...  So, there's been a lot of "duh" in my house as of late.</p>  <p>However, late last week, we made a breakthrough.  After repeatedly speaking what we do in the house (Lisa and I are like a walking talking episode of Sesame Street), Zoe has learned to talk trash!  Actually she learned the word "trash" and understands it's context.  Very exciting!  When she is done with dinner she says "duh" (done missing the last consonant) and I take her paper plate over to the trash and drop it in and she says "trash".</p>  <p>Her pediatrician says that this is about the time where we should see a "word explosion."  I understand that children can learn a new word every 30 minutes.  That's just crazy considering my vocabulary probably decreases at about one word every 90 minutes.</p>  <p>Needless to say, I am very excited for Zoe to start communicating in English.  I am sure we are quite a ways off, but every step brings me closer to understanding my little zoetrope.</p>

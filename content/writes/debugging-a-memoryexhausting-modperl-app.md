@@ -1,5 +1,11 @@
-title: Debugging a memory-exhausting mod_perl app
+---
+title: "Debugging a memory-exhausting mod_perl app"
 date: 2007-02-04 02:12:07
+type: post
+categories:
+- Damaged Bits
+tags:
+- solaris
 ---
 
 <p> An app that we've been running for a long time in development was being tested in a staging environment and exploded immediately.  It's a mod_perl app that has run well for years, but on this new machine as soon as a web request would happen, the process would swell to 4GB of RSS, consume swap and then segfault.  Ouch! </p>  <p> So, the first diagnostic step I usually take is the quick and easy execution of truss(1).  I do this by starting Apache in foreground/debugging mode: truss /opt/apache13/bin/httpd -X -DAMD64 -f /path/to/httpd.conf.  This spit out a slew of stuff s it started up and then just when into an accept() call -- as expected.  So, then I get the process with my web browser and another slew of junk came up as it loaded templates and made datbase calls (all looking normal) and then it went whacko: brk() over and over and over again.  So, what does this tell us?  It's in a memory allocation loop?  Not exactly, but it does tell us that there are no system calls in between this flurry of death-spiral heap explosion. </p>  <p> Next step... Let's see what the process is doing.  I run a pstack on it.  Well, I knew I'd want to dig, so I actually attached to it under dbx and issued "where" </p> 

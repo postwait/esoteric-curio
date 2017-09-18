@@ -1,9 +1,12 @@
-title: The desktop and server: oil and water.
+---
+title: "The desktop and server: oil and water."
 date: 2012-03-24 01:48:20
-tags: 
+type: post
+categories:
 - Damaged Bits
-- OpenSolaris
-- PostgreSQL
+tags: 
+- illumos
+- omnios
 ---
 
 I've been using these computer things for a while.  I've written what is now over 100k lines of production C code and many thousands of lines of code in a variety of other languages.  I've seen my software run and I've run other people software.  One thing they all have in common is their propensity to break under unforeseen circumstances.  Shit happens.

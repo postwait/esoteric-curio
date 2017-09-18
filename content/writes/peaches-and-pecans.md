@@ -1,11 +1,9 @@
-title: Peaches and Pecans
+---
+title: "Peaches and Pecans"
 date: 2012-06-13 16:21:19
-tags: 
-- BWPUG
+type: post
+categories:
 - Damaged Bits
-- OpenSolaris
-- PostgreSQL
-- Rambling
 - Advice
 ---
 

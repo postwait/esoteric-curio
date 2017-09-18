@@ -1,9 +1,12 @@
-title: Using Esper to manage real-time data.
+---
+title: "Using Esper to manage real-time data."
 date: 2011-02-04 19:01:10
-tags: 
+type: post
+categories:
 - Damaged Bits
-- OpenSolaris
-- PostgreSQL
+tags: 
+- monitoring
+- speaking
 ---
 
 I'm flying back from a wonderful event: [Strata](http://strataconf.com/).

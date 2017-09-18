@@ -1,9 +1,7 @@
-title: Surge 2011 CFP Extension
+---
+title: "Surge 2011 CFP Extension"
 date: 2011-04-06 02:41:11
-tags: 
-- BWPUG
-- OpenSolaris
-- PostgreSQL
+type: post
 ---
 
 The CFPs have been rolling in for Surge 2011; these are exciting times.  It does, however, appear that our description of what we're looking for has produced a different set of submissions that what I expected.  I think it might help to better understand what sessions were like last year and, luckily, we'll be [releasing all of the Surge 2010 video footage this week](http://omniti.com/surge/2010/sessions).  I apologize for the poor audio quality, we intend to pull in A/V recording professionals this year.

@@ -1,9 +1,12 @@
-title: Everyone is to blame for this continued expectation that such magic is possible.
+---
+title: "Everyone is to blame for this continued expectation that such magic is possible."
 date: 2011-04-25 00:29:59
-tags: 
+type: post
+categories: 
 - Damaged Bits
-- OpenSolaris
-- PostgreSQL
+tags:
+- zfs
+- postgres
 ---
 
 > My opinion is that the only reason the big enterprise storage vendors have gotten away with network block storage for the last decade is that they can afford to over-engineer the hell out of them and have the luxury of running enterprise workloads, which is a code phrase for “consolidated idle workloads.” When the going gets tough in enterprise storage systems, you do capacity planning and make sure your hot apps are on dedicated spindles, controllers, and network ports.

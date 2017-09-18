@@ -1,6 +1,12 @@
-title: CraftConf 2015 ~ Distributed Tracing
+---
+title: "CraftConf 2015 ~ Distributed Tracing"
 date: 2015-04-29 16:20:16
+type: post
+categories:
+- Damaged Bits
 tags:
+- speaking
+- debugging
 ---
 I recently had the honor of talking about distributed tracing at
 CraftConf 2015.  Wonderful conference, wonderful crowd and the talk was

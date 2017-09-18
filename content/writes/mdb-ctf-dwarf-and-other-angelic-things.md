@@ -1,10 +1,14 @@
-title: MDB, CTF, DWARF, and other angelic things
+---
+title: "MDB, CTF, DWARF, and other angelic things"
 date: 2014-12-05 22:56:15
-tags:
+type: post
+categories:
 - Damaged Bits
-- Illumos
-- OmniOS
-- SmartOS
+tags:
+- illumos
+- omnios
+- smartos
+- debugging
 ---
 
 So what's this all about then? Debugging. I've written a lot of C, I still

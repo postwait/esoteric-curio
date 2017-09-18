@@ -1,5 +1,7 @@
-title: Sun/OmniTI PostgreSQL Case Study
+---
+title: "Sun/OmniTI PostgreSQL Case Study"
 date: 2007-02-20 04:36:45
+type: post
 ---
 
 <p>I've blogged a few times in the past about running large PostgreSQL applications on Solaris.  I've also spoken about the same adventure at various industry conferences.  I'm pretty excited to see that the case study that we worked on with Sun has finally hit the bit pipes of the Internet.</p>  <p>I'll note that we run Solaris, FreeBSD, OpenBSD, Mac OS X, and Linux here at the <a href="http://omniti.com/home">$DAYJOB</a>.  A whole lot of Linux, actually.  The reason we run these various things is that they are all UNIX or UNIX-like and all make us happy.  Each is a different, yet effective, lance to shatter the windmills at which we tilt.  Each OS has its issues, none is perfect.</p>  <p>This particular tale is one of a datawarehouse application and astoudingly effective application of Solaris 10 and PostgreSQL 8 to boast.  Enjoy.</p>  <blockquote> OmniTIâ€™s move from a proprietary application  to PostgreSQL for its customer was prompted  by growing database requirements that were  threatening to send software costs skyrocketing.  The companyâ€™s existing online transaction  processing (OLTP) and data warehouse  capabilities strained to keep up with the demands  of a half-terabyte OLTP database peaking at  10,000 transactions per second and a data  warehouse database consuming 1.2 terabytes. </blockquote>  <a href="http://www.sun.com/emrkt/srsc/postgresql.html">Read more about the case study.</a>

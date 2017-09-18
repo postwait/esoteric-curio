@@ -1,6 +1,7 @@
-title: Law abiding citizen.
+---
+title: "Law abiding citizen."
 date: 2013-06-09 13:25:08
-tags: 
+categories: 
 - Rambling
 ---
 

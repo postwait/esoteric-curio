@@ -1,6 +1,8 @@
-title: "\"Twitter Bitch\" is not a protected class."
+---
+title: "'Twitter Bitch' is not a protected class."
 date: 2013-09-25 16:57:32
-tags: ["Rambling"]
+categories:
+- Rambling
 ---
 
 The seemingly endless stream of misinterpretations of what free speech actually affords you as a citizen in the United States just keeps on flowing.

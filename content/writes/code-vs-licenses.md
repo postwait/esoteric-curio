@@ -1,6 +1,8 @@
-title: Code vs. Licenses
+---
+title: "Code vs. Licenses"
 date: 2013-09-28 15:40:58
-tags:
+type: post
+categories:
 - Damaged Bits
 - Rambling
 ---

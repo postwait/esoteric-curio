@@ -1,6 +1,8 @@
-title: Advice.
-date: 2012-06-03 14:37:09
-tags: 
+---
+title: "Advice."
+date: 2012-06-03T14:37:09-04:00
+type: post
+categories: 
 - Damaged Bits
 ---
 

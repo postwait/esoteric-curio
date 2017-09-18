@@ -1,7 +1,11 @@
-title: 折伏 - as it relates to coding
+---
+title: "折伏 - as it relates to coding"
 date: 2014-02-08 18:43:13
-tags:
+type: post
+categories:
 - Advice
+tags:
+- programming
 ---
 Open plan offices are bad.  Breaking my concentration is wasteful.  You hired me to code, so don't interrupt me.  I keep reading statements like this and feel compelled to supply a counterpoint.  It isn't that these are lies, it is that the are immature perspectives on a complex set of circumstances that clearly only represent a certain type of coder.  In fact, I'll claim that "coder" is either junior or selfish or both: immature.  While I procede to wax on the subject, keep in mind that this is another perspective. This perspective is, of course, the right perspective...
 

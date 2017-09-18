@@ -1,5 +1,11 @@
-title: Finding leaks on Solaris (w/o Valgrind)
+--
+title: "Finding leaks on Solaris (w/o Valgrind)"
 date: 2010-10-09 20:04:18
+categories:
+- Damaged Bits
+tags:
+- solaris
+- illumos
 ---
 
 Premise: I write a lot of C code.  I run a lot of Solaris.

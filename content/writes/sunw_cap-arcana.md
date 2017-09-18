@@ -1,8 +1,11 @@
-title: .SUNW_cap arcana
+---
+title: ".SUNW_cap arcana"
 date: 2017-02-28 10:16:55
+type: post
+categories:
+- Damaged Bits
 tags:
 - illumos
-- linker
 ---
 
 This post is going to be useless to almost everyone, yet hopefully

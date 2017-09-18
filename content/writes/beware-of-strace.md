@@ -1,5 +1,12 @@
-title: Beware of strace
+---
+title: "Beware of strace"
 date: 2005-10-11 13:16:47
+type: post
+categories:
+- Damaged Bits
+tags:
+- linux
+- debugging
 ---
 
 So I have this app... And it *appears* to be misbehaving.  I can't tell quite what it is blocking on (or momemtarily pausing on) as the case may be just by staring at top or its log files.  It's supposed to perform around 300 message submissions per second and appears to be doing like 30.  So, where's the problem?  Or more importantly, how do we find the problem?

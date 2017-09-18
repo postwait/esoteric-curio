@@ -1,9 +1,12 @@
-title: #ywahusty
+---
+title: "#ywahusty"
 date: 2011-02-04 15:41:44
-tags: 
+type: post
+categories:
 - Damaged Bits
-- OpenSolaris
-- PostgreSQL
+- Advice
+tags:
+- programming
 ---
 
 ### Defining the term:

@@ -1,9 +1,7 @@
-title: Surge is gonna kick ass.
+---
+title: "Surge is gonna kick ass."
 date: 2011-08-10 03:48:22
-tags: 
-- Damaged Bits
-- OpenSolaris
-- PostgreSQL
+type: post
 ---
 
 I haven't blogged for a while because:

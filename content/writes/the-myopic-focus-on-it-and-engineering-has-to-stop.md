@@ -1,8 +1,12 @@
-title: The myopic focus on IT and engineering has to stop.
+---
+title: "The myopic focus on IT and engineering has to stop."
 date: 2012-08-27 11:30:49
-tags: 
+type: post
+categories: 
 - Damaged Bits
 - Advice
+tags:
+- circonus
 ---
 
 Business is king. Customers rule. Service is everything.  Yet every organization I go into has an engineering group that can't see outside their bubble.  Perhaps they can, but they certainly choose not to.

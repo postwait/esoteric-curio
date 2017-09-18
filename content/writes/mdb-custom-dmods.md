@@ -1,10 +1,14 @@
-title: mdb custom dmods
+---
+title: "mdb custom dmods"
 date: 2014-12-08 16:14:11
-tags:
+type: post
+categories:
 - Damaged Bits
-- Illumos
-- OmniOS
-- SmartOS
+tags:
+- illumos
+- omnios
+- smartos
+- debugging
 ---
 
 Picking up right where we left off in [our previous exercises](/~jesus/writes/mdb-ctf-dwarf-and-other-angelic-things).

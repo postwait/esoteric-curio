@@ -1,6 +1,10 @@
-title: Entrepreneur ProTips
+---
+title: "Entrepreneur ProTips"
 date: 2014-09-19 13:55:37
-tags:
+type: post
+categories:
+- Damaged Bits
+- Advice
 ---
 
 I've seen various posts from a diaspora of "entrepreneurs" that have
@@ -8,44 +12,36 @@ resulted in nothing more than a cacophony of conflicting advice.  Some
 of that advice was (in my opinion) bad.  What better way to fix this
 than add my own!
 
-I started by first business OmniTI{% sidebar-link omniti %} in 1997 and then
-proceeded to found three other companies: Fontdeck{% sidebar-link fontdeck %},
-MessageSystems{% sidebar-link messagesystems %}, and Circonus{% sidebar-link circonus %}.
+I started by first business OmniTI in 1997 and then
+proceeded to found three other companies: Fontdeck,
+MessageSystems, and Circonus.
 I've been around a bit and understand the stresses of growing a
 company from nothing (no funding) as well as from taking rounds of
 financing and leveraging debt.
 
-{% sidebar omniti %}
 ### OmniTI
 
 OmniTI is a company that provides expert consulting in the realm of
 Internet scalability and performance. It has served over 15% of the
 largest websites in the world (Alexa top 100).
 [learn more...](http://omniti.com/)
-{% endsidebar %}
 
-{% sidebar fontdeck %}
 ### Fontdeck
 
 Is a boutique web font CDN allowing web designers to leverage their
 favorite fonts to build beautiful and high-performance web site.
 [learn more...](http://fontdeck.com/)
-{% endsidebar %}
 
-{% sidebar messagesystems %}
 ### MessageSystems
 
 The world's leading provider of digital messaging infrastructure
 software and cloud services. [learn more...](http://www.messagesystems.com/)
-{% endsidebar %}
 
-{% sidebar circonus %}
 ### Circonus
 
 Solving tomorrow's monitoring problems today.  Leveraging most scalable and
 numerically capable time-series database available, we make sense of
 telemetry data. [learn more...](http://www.circonus.com/)
-{% endsidebar %}
 
 So... here's my advice. (hint: nothing to do with finance)
 

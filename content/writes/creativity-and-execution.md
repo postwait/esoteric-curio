@@ -1,23 +1,16 @@
-title: Creativity and Execution
+---
+title: "Creativity and Execution"
 date: 2012-07-10 17:33:41
-tags: 
-- BWPUG
+type: post
+categories: 
 - Damaged Bits
-- OpenSolaris
-- PostgreSQL
-- Rambling
-- Writing
-- Advice
+tags:
+- advice
 ---
 
 I've built a few successful products and looking back on their success, I think that the mantra that drove product development is what separated our products from the rest of the market: "products built from pain." All of the products we've built were done so to relieve acute pain. Not pain we researched; pain we experienced.  We built products and changed the world of software because our lives sucked.
 
-<div style="float:right; margin-left: 1em; text-align:center">
-<div style="border: 1px solid #888">
-![](http://farm1.staticflickr.com/71/180580856_d8285de11d.jpg)
-</div>
-Photograph by [AlexRK](http://www.flickr.com/photos/alex-rk/180580856/).
-</div>
+{{< image classes="fancybox right" src="http://farm1.staticflickr.com/71/180580856_d8285de11d.jpg" title="Photograph by AlexRK" >}}
 
 I've read a lot of books lately on new ways of running organizations and different methods of motivating people and many of them focus on studies around jobs that require a tremendous amount of creativity or "thought workers."  I think these books are interesting, exciting and I'm interested in carefully applying some of the research at my places of work. Thinking is critical, creativity is what enables you to innovate. Now, I'll say something highly unpopular: get over yourself.
 

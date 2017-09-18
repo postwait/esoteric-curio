@@ -1,5 +1,12 @@
-title: Theo seeks aspiring Systems Administrator
+---
+title: "Theo seeks aspiring Systems Administrator"
 date: 2006-12-19 02:57:55
+type: post
+categories:
+- Damaged Bits
+tags:
+- operations
+- career
 ---
 
 <p>A while ago, I posted looking for an aspiring developer and somehow the blogosphere delivered.  Here's my second attempt.</p>  <p>OmniTI (currently) manages hundreds of machines running pretty much every flavor of operating system imaginable (almost zero Windows).   We manage systems, routers, switches, load balancers, storage area networks -- basically, every operational component of today's large architectures.  If you've ever seen me speak, I think one of the things that entertains people the most is the amusing anecdotes.  With big systems processing critical business transactions, when @#$% hits the fan, the faint of heart end up with a moist seat.</p>  <p>Currently, we're looking for a junior SA to learn what it is to manage large systems.  And like my previous post, here are some rules of engagement:</p>  <ul> <li>If you call having spare parts having a "failover," I'll beat you with a stick.</li>  <li>If you have important data that doesn't sport a backup and retention policy, I'll make you write oxy<b>moron</b> on the white board a hundred times, then I'll beat you with a stick.</li> <li>If you call a service production and you don't get paged when it breaks, I'll page you -- with a stick.</li> <li>If you think documenting how you install and configure software jeopardizes job security, I'll beat you with two sticks: the mighty stick of literacy and the stinging cane of vanity.</li> <li>If the idea of your operating systems kernel panicking when you try to mount your database's filesystem makes you want to wet your pants, bring a towel to work.</li> </ul>  <p>"Is this job right for me?" you might ask...</p> <ul> <li>Claiming Oracle is slow on your system because you didn't compile it yourself is like saying your phone will dial faster with a spoiler on it.</li> <li>If you think any one operating system "does everything right," become a kool-aid salesman.</li> <li>If you think Gentoo is rice, become a sushi chef.</li> </ul>  <p>If you're interested in playing with big toys in an agile 24x7 environment, then feel free to apply.  Send your resume to jobs at omniti dot com.</p>
