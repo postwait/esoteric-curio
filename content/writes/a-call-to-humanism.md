@@ -1,10 +1,10 @@
 ---
 title: "A Call to Humanism"
 date: 2016-01-10T12:30:21-04:00
+type: post
 tags:
 - humanism
-- human rights
-categories:
+- rights
 - religion
 ---
 A letter to my fellow humans,
