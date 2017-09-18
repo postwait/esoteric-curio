@@ -20,7 +20,7 @@ relativeURLS = true
 
 [author]
   name = "Theo Schlossnagle"
-  bio = "Distributed Systems, Scalability, and Operations. [read more](/about/)"
+  bio = "Distributed Systems, Scalability, and Operations. [read more](/page/about/)"
   job = "CEO - Circonus"
   location = "Maryland, USA"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
