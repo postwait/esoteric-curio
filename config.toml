@@ -1,4 +1,4 @@
-baseurl = "http://lethargy.org/~jesus/"
+baseURL = "http://lethargy.org/~jesus/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 defaultLayout = "post"
@@ -7,7 +7,7 @@ theme = "tranquilpeak"
 disqusShortname = "postwait"
 googleAnalytics = "UA-1004645-1"
 paginate = 7
-canonifyURLs = false
+canonifyURLs = true
 relativeURLs = true
 
 [permalinks]

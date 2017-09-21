@@ -54,6 +54,11 @@
         <propval name='duration' type='astring' value='child' />
     </property_group>
 
+ <property_group name='general' type='framework'>
+      <propval name='action_authorization' type='astring' value='solaris.smf.manage.jesus'/>
+      <propval name='value_authorization' type='astring' value='solaris.smf.manage.jesus'/>
+ </property_group>
+
     <stability value='Unstable' />
 
     <template>
