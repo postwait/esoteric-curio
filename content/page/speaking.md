@@ -3,7 +3,7 @@ title: "Speaking"
 showMeta: false
 comments: false
 showActions: false
-coverImage: /~jesus/misc/theo-lisa-speaking.jpg
+coverImage: /~jesus/images/theo-lisa-speaking.jpg
 coverCaption: Photograph by Tobias Oetiker
 coverSize: partial
 ---
