@@ -19,10 +19,10 @@ between my family and me.
 
 Make the [ice cream custard base](https://cooking.nytimes.com/recipes/1016605-the-only-ice-cream-recipe-youll-ever-need),
 I now use this recipe b/c it works well and it's very readable.  Note that
-this is vanilla, go light on the vanilla (you can use extract) because we
-want a mint undertone.  So, during the scolding process, add a small handful
-of mint leaves (say 8), you can smack them first, but don't damage them as
-it's a bit nicer if the green coloring doesn't seem through the ice cream.
+this is vanilla, go light on the vanilla (you can use extract because we
+want a mint undertone).  During the scolding process, add a small handful
+of mint leaves (say 8); you can smack them first but don't damage them as
+it's a bit nicer if the green coloring doesn't seep into the base.
 You can, of course, use mint extract, but my personal experience with this
 has been far from satisfying.  I always get the extract too strong and it
 takes a sort of chemical taste.  If you don't have fresh mint leaves, I'd recommend mixing in a tablespoon of creme de menthe before refrigerating your mix.
