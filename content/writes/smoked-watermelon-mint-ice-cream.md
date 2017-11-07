@@ -1,6 +1,8 @@
 ---
 title: "Smoked Watermelon & Mint Ice Cream"
 date: 2017-11-04 14:02:15
+coverImage: /~jesus/images/20140720_143347.jpg
+thumbnailImage: none
 type: post
 categories:
 - Food
