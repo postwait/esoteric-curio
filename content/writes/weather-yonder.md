@@ -41,7 +41,7 @@ while we are absent: the weather.
 We bought the excellent [Ambient Weather 10-1 personal weather station](http://amzn.to/2iNBntN)
 and connected it up to [weather underground](http://wunderground.com/) and while this
 is cool I found myself asking questions that the tooling there just could not answer.
-Enter Circonus.
+Enter [Circonus](https://www.circonus.com/).
 
 I wrote up a little connector that pulls data from wunderground and pushes it into a
 Circonus trap called [wunder-circonus](https://github.com/postwait/wunder-circonus) and
