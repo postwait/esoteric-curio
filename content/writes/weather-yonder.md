@@ -2,7 +2,10 @@
 title: "Weather Yonder"
 date: 2017-12-04 14:02:15
 coverImage: https://photos.smugmug.com/Schloss-Hollow/n-92KWPV/i-C3T9JZk/0/5c4d665c/XL/i-C3T9JZk-XL.jpg
-thumbnailImage: none
+coverSize: partial
+thumbnailImage: /~jesus/images/partly_sunny.jpg
+thumbnailImagePosition: left
+autoThumbnailImage: yes
 type: post
 categories:
 - Schloss Hollow
