@@ -59,7 +59,7 @@ do capacity planning for seasons.  The tools in Circonus are pretty powerful for
 It is pretty funny when you get power, internet and weather monitoring before you get running
 water and toilets.  I do not regret prioritizing the things that connect us to the nature of this place.
 
-> For those playing along at home... I am pulling the solarradiation in as a metric (which is the moment reading of watts/m^2 from the weather station.  This data is not always available every minute due to submission intervals and Internet connectivity issues, so I need to fill in the gaps, take a rolling average and multiply by 24 to understand how many kilowatt hours I could produce over a day.
+> For those playing along at home... I am pulling the `solarpower` in as a metric (which is the moment reading of watts/m^2 from the weather station.  This data is not always available every minute due to submission intervals and Internet connectivity issues, so I need to fill in the gaps, take a rolling average and multiply by 24 to understand how many kilowatt hours I could produce over a day.
 
 ```
 metric:average("494d50ce-0c18-4cff-808b-d64d8237446e","solarpower") |
