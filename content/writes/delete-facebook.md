@@ -1,7 +1,9 @@
 ---
 title: "Delete Facebook"
 date: 2018-03-21T10:58:45-04:00
-draft: false
+type: post
+categories:
+- Damaged Bits
 ---
 For a long time, I've seen my peers, my loved ones, and myself dump valuable time into the Facebook platform.
 I've also seen it cause a lack of mindfulness.  I have long thought that I should use it less to regain some
