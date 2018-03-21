@@ -5,7 +5,7 @@ type: post
 categories:
 - Damaged Bits
 ---
-For a long time, I've seen my peers, my loved ones, and myself dump valuable time into the Facebook platform.
+For a long time I've seen my peers, my loved ones, and myself dump valuable time into the Facebook platform.
 I've also seen it cause a lack of mindfulness.  I have long thought that I should use it less to regain some
 enjoyment readily available elsewhere in my life.  As an excuse, I've said I need it for work, for family, or
 just to stay connected to various communities.  The recent #deletefacebook trend has caused me to reflect and
