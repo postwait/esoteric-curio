@@ -8,7 +8,7 @@ tags:
 - sriracha
 ---
 
-<iframe src="http://rcm.amazon.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=lethargy-20&o=1&p=8&l=as1&m=amazon&f=ifr&md=10FE9736YVPPT7A0FBG2&asins=1607740036" style="float:right;width:120px;height:240px;margin:0.5em;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+<iframe src="https://rcm.amazon.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=lethargy-20&o=1&p=8&l=as1&m=amazon&f=ifr&md=10FE9736YVPPT7A0FBG2&asins=1607740036" style="float:right;width:120px;height:240px;margin:0.5em;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 
 I got a copy of "The Sriracha Cookbook: 50 "Rooster Sauce" Recipes that Pack a Punch" last week.  First recipe today was just awesome.  The egg filling was a little loose, I think I'll back down the lime juice in the next batch of Sriracha Mayo.  Still. Pop!  Thumbs up.
 

@@ -26,13 +26,13 @@ While they insisted that what I was doing wasn't kosher.  I asked a simple quest
 
 ## Getting more concrete.
 
-One of [Reconnoiter](http://github.com/circonus-labs/reconnoiter)'s programs (the IEP system that turns metrics into alerts) is written in Java and is resposible for analyzing data streams and alerting on undesired behavior.  The code for this was released under the GPLv2... and the three-clause BSD.  The code (at least some of it) leverages a pretty [fantastic event processing engine called Esper](http://esper.codehaus.org/).
+One of [Reconnoiter](https://github.com/circonus-labs/reconnoiter)'s programs (the IEP system that turns metrics into alerts) is written in Java and is resposible for analyzing data streams and alerting on undesired behavior.  The code for this was released under the GPLv2... and the three-clause BSD.  The code (at least some of it) leverages a pretty [fantastic event processing engine called Esper](https://esper.codehaus.org/).
 
 Esper is released under the terms of the GPLv2.  So while one can certainly argue, I'm going to simply state that if I ship a program written in Java and I ship Esper with it and Esper's code is called in any way (including via subclassing), the code that powers that program must also be distributed under the terms of the GPLv2.  Great, it was.
 
 Now, why would the code also be licensed under the terms of the modified BSD?  The answer is simple and all about open source and the Maker's mission.  Any open source code I use, I like to be able to use for purposes that may deviate from the licensor's original intentions.  
 
-This system's code was also licensed such that I could take that code, and gut the Esper integration [(say for performance and scalability reasons)](http://www.circonus.com/blog/updates-from-the-tech-team/) and replace it with something else.  By gutting the Esper code, I no longer ship Esper or derive any parts of my program from Esper...  freeing me from the terms of the GPLv2 that accompanied it.  It should be obivous: by eliminating the software component from the stack, you eliminate any licensing terms that accompany it.
+This system's code was also licensed such that I could take that code, and gut the Esper integration [(say for performance and scalability reasons)](https://www.circonus.com/blog/updates-from-the-tech-team/) and replace it with something else.  By gutting the Esper code, I no longer ship Esper or derive any parts of my program from Esper...  freeing me from the terms of the GPLv2 that accompanied it.  It should be obivous: by eliminating the software component from the stack, you eliminate any licensing terms that accompany it.
 
 ## What's next.
 

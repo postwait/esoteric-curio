@@ -21,7 +21,7 @@ In traditional product engineering, there is a goal to produce a product that is
 
 We are faced with a problem: shit goes wrong.  As an engineer for a software product, you know full well that shit will break.  Those knobs will be set and/or auto-tuned and you'll be thinking: "what if?"  The: "Wow, I've never seen this set of inputs. The min_wu_tang_threshold is 11... it might behave better at 42 right now... sure wish I could twist that knob that product management insisted I leave off right now."  The truth is: the product you ship is not the product they receive.  Not every knob you ship has to be in the "manual," it can be in the unsupported "ninja manual."  You can absolutely instrument your application without sacrificing simple and intuitive use by the majority of your audience.
 
-Bottom line? The knob should be there. My hat goes off to an [engineering team](http://www.messagesystems.com/company/who_we_are/) that takes this to heart: "I am ten ninjas." And a second tip of the hat to the diaspora of Solaris kernel engineers that have allowed us to tweak (seemingly) insane operational constraints on production systems without applying patches or rebooting.
+Bottom line? The knob should be there. My hat goes off to an [engineering team](https://www.messagesystems.com/company/who_we_are/) that takes this to heart: "I am ten ninjas." And a second tip of the hat to the diaspora of Solaris kernel engineers that have allowed us to tweak (seemingly) insane operational constraints on production systems without applying patches or rebooting.
 
 ### Appealing to the pragmatist.
 

@@ -37,7 +37,7 @@
     <exec_method
         type='method'
         name='start'
-        exec='/export/home/jesus/go/bin/hugo server --appendPort=false -p 4000 -b http://lethargy.org/~jesus --bind 0.0.0.0'
+        exec='/export/home/jesus/go/bin/hugo server --appendPort=false -p 4000 -b https://lethargy.org/~jesus --bind 0.0.0.0'
         timeout_seconds='60'>
         <method_context working_directory="/export/home/jesus/blog">
             <method_credential user='jesus' group='other' />

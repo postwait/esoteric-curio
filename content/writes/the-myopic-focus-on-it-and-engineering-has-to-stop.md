@@ -21,6 +21,6 @@ The truth is that there is absolutely critical telemetry coming from every facet
 
 Don't get me wrong, I don't think technology isn't a first-class component of today's (and tomorrow's) organizations.  In fact, I think the technology group has been applying radically advanced techniques to telemetry data for years.  It's high time that these techniques and tools were applied to the organization unabridged.
 
-There is a profound shift in data transparency and accountability coming to the organization to tomorrow.  If you don't buy in, you'll simply fail to achieve the agility and efficiencies of your competition. I'm here, with [Circonus](http://circonus.com/), to make that happen.
+There is a profound shift in data transparency and accountability coming to the organization to tomorrow.  If you don't buy in, you'll simply fail to achieve the agility and efficiencies of your competition. I'm here, with [Circonus](https://circonus.com/), to make that happen.
 
 Business is king, not engineering.  The difficult (but exceptionally simple) shift of engineering's focus from serving itself to serving the business as a whole will remake IT as the engine of the organization.  As soon as you embrace this shift, technology will be the most powerful tool your organization has at its disposal.

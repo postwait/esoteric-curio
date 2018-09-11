@@ -7,7 +7,7 @@ categories:
 
 The seemingly endless stream of misinterpretations of what free speech actually affords you as a citizen in the United States just keeps on flowing.
 
-{% blockquote Mark Leiser http://www.thedrum.com/news/2013/09/25/easyjet-under-fire-after-claims-it-refused-let-drum-columnist-mark-leiser-board %}
+{% blockquote Mark Leiser https://www.thedrum.com/news/2013/09/25/easyjet-under-fire-after-claims-it-refused-let-drum-columnist-mark-leiser-board %}
 It wasn’t until I asked him if he’d heard of free speech that the tone changed.
 {% endblockquote %}
 

@@ -17,4 +17,4 @@ Somehow, somewhere some engineer and their cult following decided that they want
 
 I don't want sound drivers and X11 or gnome in my datacenter operating system.  I don't want the kernel developers considering how priorities and implementation decisions effect software that has no place near my database server or web server or load balancer.  I don't want my scheduler to be optimized for browsing the web while watching a video.  My server is to **serve** the Internet.
 
-We've been working on something to scratch our itch at [OmniTI.](http://omniti.com/) If you are pissed off like me, maybe you'll like it... coming soon.
+We've been working on something to scratch our itch at [OmniTI.](https://omniti.com/) If you are pissed off like me, maybe you'll like it... coming soon.

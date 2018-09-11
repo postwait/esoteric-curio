@@ -7,7 +7,7 @@ coverImage: /~jesus/images/theo-lisa-speaking.jpg
 coverCaption: Photograph by Tobias Oetiker
 coverSize: partial
 ---
-If you go to conferences, there's a good chance you might have seen me speak.  I am an [ACM Distinguished Speaker](https://dsp.acm.org/) and have been speaking at conferences far and wide for 15 years.  [Lanyrd](http://lanyrd.com/profile/postwait/) has managed to capture about 20% of them.
+If you go to conferences, there's a good chance you might have seen me speak.  I am an [ACM Distinguished Speaker](https://dsp.acm.org/) and have been speaking at conferences far and wide for 15 years.  [Lanyrd](https://lanyrd.com/profile/postwait/) has managed to capture about 20% of them.
 
 ### Selected Videos
 
@@ -15,8 +15,8 @@ If you go to conferences, there's a good chance you might have seen me speak.  I
  * [SREcon17: Distributed Systems, Like It or Not](https://www.youtube.com/watch?v=HPhmBmZLXl0)
  * [SREcon17: Monitoring Design Principles](https://www.youtube.com/watch?v=3-L5NC5OQkM)
  * [Monki Gras 2014: on Leveraging Failures](https://www.youtube.com/watch?v=1lIhIYMIsyE)
- * [Craftconf: Better Engineer Through Better Discourse](http://www.ustream.tv/recorded/102894526)
- * [Craftconf: Responibly maximizing craftsmanship in software](http://www.ustream.tv/recorded/46744760)
+ * [Craftconf: Better Engineer Through Better Discourse](https://www.ustream.tv/recorded/102894526)
+ * [Craftconf: Responibly maximizing craftsmanship in software](https://www.ustream.tv/recorded/46744760)
  * [Why I belong to the ACM](https://www.youtube.com/watch?v=F9Gf3_v8GI8)
  * [AppNexus 2013: Building and Shipping a Scalable Product](https://www.youtube.com/watch?v=ZjtN_f_B1UU)
  * [Ricon 2013: How Do You Eat an Elephant? w/ Robert Treat](https://www.youtube.com/watch?v=dllla97nE60)

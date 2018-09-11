@@ -1,4 +1,4 @@
-baseURL = "http://lethargy.org/~jesus/"
+baseURL = "https://lethargy.org/~jesus/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 defaultLayout = "post"

@@ -11,4 +11,4 @@ tags:
 - omnios
 ---
 
-And this is it ... [OmniOS](http://omnios.omniti.com/).
+And this is it ... [OmniOS](https://omnios.omniti.com/).

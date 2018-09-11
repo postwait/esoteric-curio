@@ -96,7 +96,7 @@ real and useful code in that it allocates memory and puts it in a data
 structure.
 
 For our hash table implementtion, I'll use the excellent
-one from [Concurrency Kit](http://www.concurrencykit.org/).
+one from [Concurrency Kit](https://www.concurrencykit.org/).
 
 First our Makefile:
 

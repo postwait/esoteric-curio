@@ -11,7 +11,7 @@ tags:
 
 So I have this app... And it *appears* to be misbehaving.  I can't tell quite what it is blocking on (or momemtarily pausing on) as the case may be just by staring at top or its log files.  It's supposed to perform around 300 message submissions per second and appears to be doing like 30.  So, where's the problem?  Or more importantly, how do we find the problem?
 
-[DTrace](http://www.sun.com/bigadmin/content/dtrace/) is the right answer of course, but I'm on Linux and FreeBSD here.  Besides, just because a new spectacular tool comes out doesn't mean you have to forget how to use the tools that have carried you up 'til now.
+[DTrace](https://www.sun.com/bigadmin/content/dtrace/) is the right answer of course, but I'm on Linux and FreeBSD here.  Besides, just because a new spectacular tool comes out doesn't mean you have to forget how to use the tools that have carried you up 'til now.
 
     # lsof -n -p 14983 | awk /TCP/'{print $2" "$4" "$5" "$7" "$8;}'
     15548 4u IPv4 TCP 10.0.0.183:57525->10.0.0.90:mysql

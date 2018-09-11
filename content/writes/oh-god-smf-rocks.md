@@ -9,4 +9,4 @@ tags:
 - smf
 ---
 
-<p>I just saw <a href="http://god.rubyforge.org/">this</a>.  I'm happier than ever that I have <a href="http://opensolaris.org/os/community/smf/">this</a>.</p>
+<p>I just saw <a href="https://god.rubyforge.org/">this</a>.  I'm happier than ever that I have <a href="https://opensolaris.org/os/community/smf/">this</a>.</p>

@@ -24,24 +24,24 @@ financing and leveraging debt.
 OmniTI is a company that provides expert consulting in the realm of
 Internet scalability and performance. It has served over 15% of the
 largest websites in the world (Alexa top 100).
-[learn more...](http://omniti.com/)
+[learn more...](https://omniti.com/)
 
 ### Fontdeck
 
 Is a boutique web font CDN allowing web designers to leverage their
 favorite fonts to build beautiful and high-performance web site.
-[learn more...](http://fontdeck.com/)
+[learn more...](https://fontdeck.com/)
 
 ### MessageSystems
 
 The world's leading provider of digital messaging infrastructure
-software and cloud services. [learn more...](http://www.messagesystems.com/)
+software and cloud services. [learn more...](https://www.messagesystems.com/)
 
 ### Circonus
 
 Solving tomorrow's monitoring problems today.  Leveraging most scalable and
 numerically capable time-series database available, we make sense of
-telemetry data. [learn more...](http://www.circonus.com/)
+telemetry data. [learn more...](https://www.circonus.com/)
 
 So... here's my advice. (hint: nothing to do with finance)
 
@@ -77,7 +77,7 @@ company puts a phenomenal amount of stress on both partners.
 > who needs 8 hours, that should be your goal.  Remember, 8 hours of
 > sleep per night leaves 112 hours in the week, so an 80 hour work
 > week is something that is possible and quite likely. Shout out to
-> [my wonderful and strong wife](http://lisabmrss.blogspot.com/).
+> [my wonderful and strong wife](https://lisabmrss.blogspot.com/).
 
 ## 3. Be passionate.
 

@@ -9,7 +9,7 @@ tags:
 - sushi
 ---
 
-{{< image classes="right fig-50" src="http://lethargy.org/~jesus/misc/IMG_0010.JPG" >}}
+{{< image classes="right fig-50" src="https://lethargy.org/~jesus/misc/IMG_0010.JPG" >}}
 
 So, I want sushi.  I love sushi.  I need sushi.
 
@@ -21,7 +21,7 @@ Here's the plan.  Take a shrimp (40-50 count) and put it on a cutting board. Tak
 
 Now we have a platform for the beauty of the sea.  At the second local grocery store, I was able to find sushi-suitable tuna loin, wild salmon roe and (of course) imitation crab meat.
 
-{{< image classes="right fig-50" src="http://lethargy.org/~jesus/misc/IMG_0012.JPG" >}}
+{{< image classes="right fig-50" src="https://lethargy.org/~jesus/misc/IMG_0012.JPG" >}}
 
 I coarse chopped some tuna, mixed half with Sriracha for the adults and left half for the kids.  From there I made four types of baciri (bacon nigiri -- yeah, that's mine): tuna, spicy tuna, ikura, and crab + cucumber. Served all this with slices of avocado on the side. The nice part is that the salty-fatty-smokiness of the bacon provides umami and there is no need for soy sauce.Boom. Magic.
 

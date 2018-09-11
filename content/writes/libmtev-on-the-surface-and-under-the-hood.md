@@ -27,7 +27,7 @@ If you're already familiar with the space, you might think: libevent{% sidebar-l
 {% sidebar otherlibs %}
 ### Other libs
 
-[libuv](http://libuv.org/), [libevent](http://libevent.org/), and [libev](http://software.schmorp.de/pkg/libev.html) all implement [event loops](https://en.wikipedia.org/wiki/Event_loop).
+[libuv](https://libuv.org/), [libevent](https://libevent.org/), and [libev](https://software.schmorp.de/pkg/libev.html) all implement [event loops](https://en.wikipedia.org/wiki/Event_loop).
 {% endsidebar %}
 
 ## Facilities
@@ -92,6 +92,6 @@ DTrace is a first class citizen in libmtev.  Probes are provided for various asp
 
 ## Getting Started
 
-[Read the documentation.](http://circonus-labs.github.io/libmtev/)
+[Read the documentation.](https://circonus-labs.github.io/libmtev/)
 
 libmtev ships with a command line application called `luamtev` which effectively runs lua scripts within the libmtev runtime and event loop.  Also, the [`src/examples`](https://github.com/circonus-labs/libmtev/tree/master/src/examples) directory has a fully functional app with telnet command and control.

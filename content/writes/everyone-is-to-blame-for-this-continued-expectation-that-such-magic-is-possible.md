@@ -15,4 +15,4 @@ tags:
 > 
 > - Mark Mayo of Joyent
 
-This is from an [interesting article](http://joyeur.com/2011/04/24/magical-block-store-when-abstractions-fail-us/) by Mark Mayo over at [Joyent](http://joyent.com) with some excellent gems in it.
+This is from an [interesting article](https://joyeur.com/2011/04/24/magical-block-store-when-abstractions-fail-us/) by Mark Mayo over at [Joyent](https://joyent.com) with some excellent gems in it.

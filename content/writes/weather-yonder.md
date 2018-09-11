@@ -23,10 +23,10 @@ fantastic while we are visiting (as the point of all this is to get away from
 the grind of daily connected life), it poses some problems when we are not here.
 Even looking a pictures of this place lightens my heart.
 
- * [a NEMA box](http://amzn.to/2Ao15M2)
+ * [a NEMA box](https://amzn.to/2Ao15M2)
  * an old Buffalotech wireless router
- * a [Netgear 4G LTE modem](http://amzn.to/2ihaniw)
- * [WilsonPro Signal 4G Direct Connect In-Line Booster Amplifier AC Kit](http://amzn.to/2jMD0Vd)OA
+ * a [Netgear 4G LTE modem](https://amzn.to/2ihaniw)
+ * [WilsonPro Signal 4G Direct Connect In-Line Booster Amplifier AC Kit](https://amzn.to/2jMD0Vd)OA
 
 I drilled three holes for the antenna mounts from router and mounted the Wifi router,
 then connected Netgear modem... all inside the NEMA box.  Ran the antenna line from the
@@ -38,8 +38,8 @@ thought this whole endeavor was for nothing, but we eventually sorted that... so
 The signal sucks, but it works well enought to bring a bit of Schloss Hollow to us
 while we are absent: the weather.
 
-We bought the excellent [Ambient Weather 10-1 personal weather station](http://amzn.to/2iNBntN)
-and connected it up to [weather underground](http://wunderground.com/) and while this
+We bought the excellent [Ambient Weather 10-1 personal weather station](https://amzn.to/2iNBntN)
+and connected it up to [weather underground](https://wunderground.com/) and while this
 is cool I found myself asking questions that the tooling there just could not answer.
 Enter [Circonus](https://www.circonus.com/).
 

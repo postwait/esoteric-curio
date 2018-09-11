@@ -21,7 +21,7 @@ I look around the room and realize there are still lights on the long unoccupied
 
 ## What happened?
 
-I had been sitting at that puzzle making decent progress, but a refresh perspective was simply invaluable. [折伏](http://www.sgilibrary.org/search_dict.php?id=1974).  Also, you'll note that I didn't tell my wife to go fuck herself.  Perhaps I have an odd marriage and that isn't so normal, but I allowed that interruption without fallout because I trust here; she's on my team.
+I had been sitting at that puzzle making decent progress, but a refresh perspective was simply invaluable. [折伏](https://www.sgilibrary.org/search_dict.php?id=1974).  Also, you'll note that I didn't tell my wife to go fuck herself.  Perhaps I have an odd marriage and that isn't so normal, but I allowed that interruption without fallout because I trust here; she's on my team.
 
 And that, after all, is the point.  It's about team.  I make money and I could argue that my wife married me to make money... she interrupts my money making to ask me to clean my dishes, or take the kids to school or simply help her out, I could remind her of that... but then I'd be a prick (and likely not be married much longer).  My wife married me to start a super team to build super things.  Together we've built three daughters.  While we've been married I could say I've built four amazing companies.  Again, I'd be a prick.  The companies in question were built teams; teams I've helped build and ultimately had the privilege of working on.
 

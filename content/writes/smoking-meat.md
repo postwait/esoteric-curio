@@ -16,7 +16,7 @@ I've tried a wide variety of smokers and smoking techniques.  I have not,
 though intend to do so in the future, tried an actual hanging smoke house.
 I've used manual feed side boxes, Green Eggs, gas grills with cast-iron
 chip boxes, and electric smokers.  So... what do I use?  I use a [Bradley
-Vertical Electric Smoker](http://amzn.to/2Ag5IFg).  Many say this is
+Vertical Electric Smoker](https://amzn.to/2Ag5IFg).  Many say this is
 sacrilegious... too bad.  I lead a busy life and the Bradley is a reliable
 work horse.  I do occassionally do something else as a one-off, but
 day-to-day I trust my Bradley.

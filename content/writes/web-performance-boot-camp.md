@@ -9,4 +9,4 @@ tags:
 - speaking
 ---
 
-<p>Slides are <a href="http://lethargy.org/~jesus/misc/webperformancebootcamp.pdf">here</a>, get 'em while they're hot.</p>
+<p>Slides are <a href="https://lethargy.org/~jesus/misc/webperformancebootcamp.pdf">here</a>, get 'em while they're hot.</p>

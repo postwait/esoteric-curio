@@ -19,8 +19,8 @@ Parts of your job are going to suck, that’s just how it is. Now, you might be 
 
 Here’s the rub: you can grow up or grow out.  Growing “up” is challenging yourself to harder and harder tasks in your hyperfocused discipline.  Growing “out” is pursuing and accepting challenges that are related to your business, but not “your job.”  Upward growth makes you better, more expert, and more elite.  Outward growth makes you better, more instrumental in overall success and an invaluable player in the business as a whole. Upward growth is far more comfortable and less intimidating; it’s the known unknown and failure is less likely. To be the best you need to invest in both.
 
-<div style="padding-left:1em; text-align:center; float: right">![](http://farm7.staticflickr.com/6183/6089093306_cc0de4e15b.jpg)
-[courtesy of alaczek](http://www.flickr.com/photos/57753982@N05/6089093306/)</div>
+<div style="padding-left:1em; text-align:center; float: right">![](https://farm7.staticflickr.com/6183/6089093306_cc0de4e15b.jpg)
+[courtesy of alaczek](https://www.flickr.com/photos/57753982@N05/6089093306/)</div>
 
 Life truly is short and not enjoying what you do (at all) is a vast waste of life itself and so it is a balancing act.  How much of your day-to-day job should be the stuff that you don’t like (outward growth that makes you uncomfortable)?  The idealists out there are simply going to hate this answer: non-zero.  I’ll get more specific for those that are still reading.  “Let me do what I do. I’m good at it and that’s what you hired me for.” Sound familiar? I say bullshit. I didn’t hire you to do X. I might have hired you because you demonstrated that you were competent at doing X, but I hired you to make my team a better team, my product a better product, and my business a better business.
 

@@ -10,7 +10,7 @@ tags:
 
 I've built a few successful products and looking back on their success, I think that the mantra that drove product development is what separated our products from the rest of the market: "products built from pain." All of the products we've built were done so to relieve acute pain. Not pain we researched; pain we experienced.  We built products and changed the world of software because our lives sucked.
 
-{{< image classes="fancybox right" src="http://farm1.staticflickr.com/71/180580856_d8285de11d.jpg" title="Photograph by AlexRK" >}}
+{{< image classes="fancybox right" src="https://farm1.staticflickr.com/71/180580856_d8285de11d.jpg" title="Photograph by AlexRK" >}}
 
 I've read a lot of books lately on new ways of running organizations and different methods of motivating people and many of them focus on studies around jobs that require a tremendous amount of creativity or "thought workers."  I think these books are interesting, exciting and I'm interested in carefully applying some of the research at my places of work. Thinking is critical, creativity is what enables you to innovate. Now, I'll say something highly unpopular: get over yourself.
 

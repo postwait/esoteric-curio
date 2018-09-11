@@ -8,4 +8,4 @@ tags:
 - zfs
 - circonus
 ---
-I wrote a post about [data rot](http://www.circonus.com/underneath-clean-data-avoiding-rot/) over on the Circonus blog.
+I wrote a post about [data rot](https://www.circonus.com/underneath-clean-data-avoiding-rot/) over on the Circonus blog.
