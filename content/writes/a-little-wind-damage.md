@@ -1,4 +1,3 @@
----
 title: "A little wind damage"
 date: 2003-09-29T01:38:00-04:00
 type: post

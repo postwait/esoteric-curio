@@ -1,4 +1,3 @@
---
 title: "Finding leaks on Solaris (w/o Valgrind)"
 date: 2010-10-09 20:04:18
 categories:

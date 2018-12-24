@@ -1,4 +1,3 @@
----
 title: "2006 in review"
 date: 2007-01-09T04:59:00-04:00
 type: post

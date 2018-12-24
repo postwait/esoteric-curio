@@ -1,4 +1,3 @@
----
 title: "A talk with Ben Rockwood"
 date: 2009-01-03 16:07:31
 type: posts

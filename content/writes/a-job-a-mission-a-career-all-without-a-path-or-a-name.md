@@ -1,4 +1,3 @@
----
 title: "A job, a mission, a career: all without a path or a name."
 date: 2008-01-16T14:39:02-04:00
 type: post

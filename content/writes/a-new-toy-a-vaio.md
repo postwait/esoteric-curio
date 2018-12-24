@@ -1,4 +1,3 @@
----
 title: "A new toy, a VAIO"
 date: 2005-07-15 01:42:55
 type: post

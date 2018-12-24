@@ -1,4 +1,3 @@
----
 title: "A look at rubyrep"
 date: 2009-08-20 19:27:12
 type: post

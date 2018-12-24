@@ -1,4 +1,5 @@
 baseURL = "https://lethargy.org/~jesus/"
+metaDataFormat = "yaml"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 defaultLayout = "post"

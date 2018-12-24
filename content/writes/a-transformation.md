@@ -1,4 +1,3 @@
----
 title: "A Transformation"
 date: 2003-11-07 02:34:00
 type: post

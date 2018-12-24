@@ -1,4 +1,3 @@
----
 title: "A month later... like clockwork."
 date: 2008-12-09 03:40:52
 type: post

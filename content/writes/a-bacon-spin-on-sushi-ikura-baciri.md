@@ -1,4 +1,3 @@
----
 title: "A bacon spin on sushi: ikura baciri"
 date: 2011-11-06T13:33:37-04:00
 type: post
