@@ -7,7 +7,7 @@ coverImage: /~jesus/images/theo-lisa-speaking.jpg
 coverCaption: Photograph by Tobias Oetiker
 coverSize: partial
 ---
-If you go to conferences, there's a good chance you might have seen me speak.  I am an [ACM Distinguished Speaker](https://dsp.acm.org/) and have been speaking at conferences far and wide for 15 years.  [Lanyrd](https://lanyrd.com/profile/postwait/) has managed to capture about 20% of them.
+If you go to conferences, there's a good chance you might have seen me speak.  I am an [ACM Distinguished Speaker](https://dsp.acm.org/) and have been speaking at conferences far and wide for 15 years.
 
 ### Selected Videos
 
