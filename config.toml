@@ -88,6 +88,7 @@ relativeURLs = true
 [params]
   # dateFormat = "2 January 2006"
   # keywords = ["development", "next-gen"]
+  altSeries = ["poetry"]
   clearReading = true
   hierarchicalCategories = false
   description = "Ramblings on Technology and Life"
