@@ -8,4 +8,4 @@ tags:
 - speaking
 ---
 
-<p>Several people have asked me for my slide stack for the Clustered Logging with mod_log_spread presentation I gave at Apache 2005 in San Diego.</p>  <center> <a href="https://images.omniti.net/www.omniti.com/~jesus/misc/Logging AC2005.pdf" border="0"><img src="https://images.omniti.net/www.omniti.com/~jesus/misc/Logging AC2005 Front.jpg" width="320" height="239" border="0"></a> </center>  <p>Enjoy!</p>
+<p>Several people have asked me for my slide stack for the Clustered Logging with mod_log_spread presentation I gave at Apache 2005 in San Diego.</p>  <center> <a href="https://lethargy.org/~jesus/misc/Logging AC2005.pdf" border="0"><img src="https://lethargy.org/~jesus/misc/Logging AC2005 Front.jpg" width="320" height="239" border="0"></a> </center>  <p>Enjoy!</p>
