@@ -54,14 +54,22 @@ approaches:
 
 ## It's too much work to change everything
 
-Maybe so. This isn't a simple yes/no answer. Certain terms are not choice and should be
-avoided, but often aren't worth retroactively changing.  Other terms are undeniably offensive
+Maybe so. This isn't a simple yes/no answer. Certain terms are not a good choice and should be
+avoided, but might not be worth retroactively changing.  Other terms are undeniably offensive
 and should be changed at all costs.  A simple example: The N-word was "acceptable" in print two
-hundred years ago and as it became less acceptable people stopped using it but didn't change
-old print or messaging... until they did.  I guarantee that if you found a word that offensive
-in your product docs today, there is literally no cost to large to go fix that.  Time will
-change the severity of infractions and what was once "not worth changing" will become "very
-worth changing."  Time, it is relentless.
+hundred years ago and as it became less acceptable people stopped using it.  At first, they
+didn't change go back and change old messages... then they did.
+I guarantee that if you found an equally offensive word in your product docs today, there is
+literally no cost to large to go fix that.  Time will change the severity of infractions and
+what was once "not worth changing" will become "very worth changing."  Time, it is relentless.
+
+> #### My thoughts
+> This was, in fact, the impetus of writing this document. There are terms that I will avoid
+> using. There are terms that I will encourage others to avoid using. There are terms that
+> I will avoid consuming (in that I will refuse to use a piece of software). All of this
+> depends upon how damaging that term is. I also realize that the category into which a term
+> falls today may change tomorrow... My response will be to fix it, then understand why, then
+> write it down here.
 
 # Reception
 
