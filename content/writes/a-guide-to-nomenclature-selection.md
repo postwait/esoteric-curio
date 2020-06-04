@@ -124,7 +124,9 @@ the context predates your infraction.
  * Standby/Replica/Copy/Follower
  * Failover
 
-Other complexities of master is that it is a loosely gendered word in English.  So, almost
+### Master outside of a slave context
+
+Another complexity of "master" is that it is a loosely gendered word in English. Almost
 always there is another more suitable word.  Let's look at `git` as an example.
 
 `$ git checkout master`
