@@ -47,8 +47,10 @@ Improving communication and inclusiveness is never a waste of time.  Yes, new th
 to light and terms we once used become unacceptable.  I suggest taking two simultaneous
 approaches:
 
-1. But in a basic effort to be inclusive.
-2. When it is brought to your attention that some term is a poor choice, understand and fix it.
+1. Put in a basic effort to be inclusive.
+2. When it is brought to your attention that some term is a poor choice,
+  1. fix it, and then
+  2. understand why
 
 ## It's too much work to change everything
 
