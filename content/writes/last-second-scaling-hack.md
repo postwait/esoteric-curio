@@ -40,14 +40,14 @@ If I get a request, I want to try server one, if I get a 404, I'd like to retry 
            set req.backend = obscuredserver2;
          }
        }
-       if (req.request != "GET" &amp;&amp; req.request != "HEAD") {
+       if (req.request != "GET" && req.request != "HEAD") {
          pipe;
        }
        lookup;
     }
     sub vcl_fetch {
-       if (req.http.host ~ "^fqdn\\.of\\.caching\\.server$" &amp;&amp;
-           req.restarts == 0 &amp;&amp; obj.status == 404) {
+       if (req.http.host ~ "^fqdn\\.of\\.caching\\.server$" &&
+           req.restarts == 0 && obj.status == 404) {
          restart;
        }
        if (!obj.cacheable) {
