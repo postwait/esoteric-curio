@@ -104,7 +104,7 @@ the context predates your infraction.
 
 > #### My thoughts
 > If when you say "master", you or potential customers might *ever* think to complete
-> that term with "slave," then you your choice remains poor.  I argue that in the world of
+> that term with "slave," then your choice remains poor.  I argue that in the world of
 > networks, distributed systems, and databases any use of "master" is poor for this very
 > reason.
 
