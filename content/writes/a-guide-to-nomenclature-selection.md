@@ -38,8 +38,8 @@ help improve adoption of and build a more inclusive and resilient ecosystem arou
 is a choice you make. Choosing inclusive words takes almost no effort (that's why this
 document exists). So, not only will you be judged for using poor words, you stand to be
 judged for using them when it would have taken no additional effort to use better words.
-Are you are jerk for insisting on using objectionable words? Well, that's subjective and
-my optionion is: yes.
+Are you a jerk for insisting on using objectionable words? Well, that's subjective and
+my opinion is: yes.
 
 ## It's a waste of time because the goal posts keep moving
 
@@ -58,7 +58,7 @@ Maybe so. This isn't a simple yes/no answer. Certain terms are not a good choice
 avoided, but might not be worth retroactively changing. Other terms are undeniably offensive
 and should be changed at all costs. A simple example: The N-word was "acceptable" in print two
 hundred years ago and as it became less acceptable people stopped using it. At first, they
-didn't change go back and change old messages... then they did.
+didn't go back and change old messages... then they did.
 I guarantee that if you found an equally offensive word in your product docs today, there is
 literally no cost to large to go fix that. Time will change the severity of infractions and
 what was once "not worth changing" will become "very worth changing." Time, it is relentless.
@@ -83,9 +83,9 @@ the people you are talking to.
 
 ### Gendering
 
-If you use genedered words, assuming your talking to a specific gender. It will alieniate
+If you use gendered words, assuming your talking to a specific gender. It will alieniate
 many of a different gender and even those of the specified gender due to its insensitivity.
-They, them, and their should be considered both signular and plural gender-nuetral alternatives
+They, them, and their should be considered both singular and plural gender-neutral alternatives
 to their gendered counterparts. If sentence construction poses a challenge, it is acceptable
 to drop into the passive voice to assist.
 
@@ -93,7 +93,7 @@ to drop into the passive voice to assist.
 
 Our society has a long history of racism, disenfranchisement, sexism, ableism, and general
 otherism. In general, avoiding colloquialisms has the benefit of not accidentally carrying
-forward the insensitive context of a phrase you did not fully undestand.
+forward the insensitive context of a phrase you did not fully understand.
 
 # Common Terms
 
@@ -153,7 +153,7 @@ replacement term and is far more appropriate metaphorically.
 
 ## Blacklists and Whitelists
 
-The cultural significant of blacklists is based in racial descrimination. There are no
+The cultural significance of blacklists is based in racial descrimination. There are no
 reasons to use these over their alternatives:
 
 ### Alternative Terms
@@ -173,10 +173,10 @@ illustrated the problem.
 
 # Conclusion
 
-If there is one certainty, is that change happens.
+If there is one certainty, it is that change happens.
 
 Being angry that "your words have being taken from you" or that the goalposts have moved
-is counter-productive. The point of words is to influence poeple and by choosing the best
+is counter-productive. The point of words is to influence people and by choosing the best
 words you stand to influence the most people. Choose the best words you can and when
 you learn new things, adopt them.
 
