@@ -84,7 +84,7 @@ the people you are talking to.
 
 ### Gendering
 
-If you use gendered words, assuming your talking to a specific gender. It will alieniate
+If you use gendered words, it presumes you're talking to a specific gender. It will alieniate
 many of a different gender and even those of the specified gender due to its insensitivity.
 They, them, and their should be considered both signular and plural gender-nuetral alternatives
 to their gendered counterparts. If sentence construction poses a challenge, it is acceptable
