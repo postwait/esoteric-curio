@@ -34,12 +34,13 @@ help improve adoption of and build a more inclusive and resilient ecosystem arou
 
 ## Why do I need to adopt this?
 
-"Why? My words mean the right thing." Bottom line is, you don't. This, like all things,
-is a choice you make. Choosing inclusive words takes almost no effort (that's why this
-document exists). So, not only will you be judged for using poor words, you stand to be
-judged for using them when it would have taken no additional effort to use better words.
-Are you are jerk for insisting on using objectionable words? Well, that's subjective and
-my optionion is: yes.
+"Why? My words mean the right thing. I don't have to adopt this." Bottom line
+is, you don't.  This, like all things, is a choice you make. Choosing
+inclusive words takes almost no effort (that's why this document exists). So,
+not only will you be judged for using poor words, you stand to be judged for
+using them when it would have taken no additional effort to use better words.
+Are you are jerk for insisting on using objectionable words? Well, that's
+subjective and my opinion is: yes.
 
 ## It's a waste of time because the goal posts keep moving
 
