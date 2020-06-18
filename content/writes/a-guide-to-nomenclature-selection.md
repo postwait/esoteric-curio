@@ -26,7 +26,7 @@ stop using the words "master" and "slave" to describe architectural components i
 ## What's the goal?
 
 From an ethical standpoint, the things we build as engineers and product owners should not
-negatively impact human beings as they excercise their universal human rights.
+negatively impact human beings as they exercise their universal human rights.
 Additionally, we all want our software to be useful to as many people as possible.
 The words we use to describe software, its pieces, and within its
 documentation can affect how it is received and adopted. Choosing the best words can
@@ -84,9 +84,9 @@ the people you are talking to.
 
 ### Gendering
 
-If you use gendered words, it presumes you're talking to a specific gender. It will alieniate
+If you use gendered words, it presumes you're talking to a specific gender. It will alienate
 many of a different gender and even those of the specified gender due to its insensitivity.
-They, them, and their should be considered both signular and plural gender-nuetral alternatives
+They, them, and their should be considered both singular and plural gender-neutral alternatives
 to their gendered counterparts. If sentence construction poses a challenge, it is acceptable
 to drop into the passive voice to assist.
 
@@ -94,7 +94,7 @@ to drop into the passive voice to assist.
 
 Our society has a long history of racism, disenfranchisement, sexism, ableism, and general
 otherism. In general, avoiding colloquialisms has the benefit of not accidentally carrying
-forward the insensitive context of a phrase you did not fully undestand.
+forward the insensitive context of a phrase you did not fully understand.
 
 # Common Terms
 
@@ -132,7 +132,7 @@ always there is another more suitable word. Let's look at `git` as an example.
 
 `$ git checkout master`
 
-I cannot find any instance anwhere of a `slave` counterpart in `git`. If someone told me
+I cannot find any instance anywhere of a `slave` counterpart in `git`. If someone told me
 to checkout the `master` branch and I then asked "What about the `slave` branch?" they would
 be thoroughly confused. There is no risk of anyone completing the concept of `master` in `git`
 with the word `slave`. The word here has the meaning of the "authoritative copy" as a
@@ -154,7 +154,7 @@ replacement term and is far more appropriate metaphorically.
 
 ## Blacklists and Whitelists
 
-The cultural significant of blacklists is based in racial descrimination. There are no
+The cultural significant of blacklists is based in racial discrimination. There are no
 reasons to use these over their alternatives:
 
 ### Alternative Terms
@@ -177,7 +177,7 @@ illustrated the problem.
 If there is one certainty, is that change happens.
 
 Being angry that "your words have being taken from you" or that the goalposts have moved
-is counter-productive. The point of words is to influence poeple and by choosing the best
+is counter-productive. The point of words is to influence people and by choosing the best
 words you stand to influence the most people. Choose the best words you can and when
 you learn new things, adopt them.
 
