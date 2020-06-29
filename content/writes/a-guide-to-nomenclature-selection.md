@@ -21,16 +21,16 @@ as to how one might go about selecting choice words for things.
 
 Likely someone sent you here because they claim you're using vernacular that is outdated, or
 inappropriate, or could simply be improved upon. There's a good chance that someone told you
-stop using the words "master" and "slave" to describe architectural components in systems.
+to stop using the words "master" and "slave" to describe architectural components in systems.
 
 ## What's the goal?
 
 From an ethical standpoint, the things we build as engineers and product owners should not
-negatively impact human beings as they excercise their universal human rights.
+negatively impact human beings as they exercise their universal human rights.
 Additionally, we all want our software to be useful to as many people as possible.
 The words we use to describe software, its pieces, and within its
 documentation can affect how it is received and adopted. Choosing the best words can
-help improve adoption of and build a more inclusive and resilient ecosystem around that software.
+help improve software adoption, and build a more inclusive and resilient ecosystem around that software.
 
 ## Why do I need to adopt this?
 
@@ -39,7 +39,7 @@ is, you don't.  This, like all things, is a choice you make. Choosing
 inclusive words takes almost no effort (that's why this document exists). So,
 not only will you be judged for using poor words, you stand to be judged for
 using them when it would have taken no additional effort to use better words.
-Are you are jerk for insisting on using objectionable words? Well, that's
+Are you a jerk for insisting on using objectionable words? Well, that's
 subjective and my opinion is: yes.
 
 ## It's a waste of time because the goal posts keep moving
@@ -59,9 +59,9 @@ Maybe so. This isn't a simple yes/no answer. Certain terms are not a good choice
 avoided, but might not be worth retroactively changing. Other terms are undeniably offensive
 and should be changed at all costs. A simple example: The N-word was "acceptable" in print two
 hundred years ago and as it became less acceptable people stopped using it. At first, they
-didn't change go back and change old messages... then they did.
+didn't go back and change old messages... then they did.
 I guarantee that if you found an equally offensive word in your product docs today, there is
-literally no cost to large to go fix that. Time will change the severity of infractions and
+literally no cost too large to go fix that. Time will change the severity of infractions and
 what was once "not worth changing" will become "very worth changing." Time, it is relentless.
 
 > #### My thoughts
@@ -74,7 +74,7 @@ what was once "not worth changing" will become "very worth changing." Time, it i
 
 # Reception
 
-In the end, your aim should be to select nomenclature that is both accurate an well received
+In the end, your aim should be to select nomenclature that is both accurate and well received
 by your audience. Perception by your audience is a critical consideration. Words are used
 to convey meaning and influence people, if you use words that are offensive or have common
 alternative meanings that are negative, you simply will not have the best chance of influencing
@@ -84,9 +84,9 @@ the people you are talking to.
 
 ### Gendering
 
-If you use gendered words, it presumes you're talking to a specific gender. It will alieniate
+If you use gendered words, it presumes you're talking to a specific gender. It will alienate
 many of a different gender and even those of the specified gender due to its insensitivity.
-They, them, and their should be considered both signular and plural gender-nuetral alternatives
+"They," "them," and "their" should be considered both singular and plural gender-neutral alternatives
 to their gendered counterparts. If sentence construction poses a challenge, it is acceptable
 to drop into the passive voice to assist.
 
@@ -94,7 +94,8 @@ to drop into the passive voice to assist.
 
 Our society has a long history of racism, disenfranchisement, sexism, ableism, and general
 otherism. In general, avoiding colloquialisms has the benefit of not accidentally carrying
-forward the insensitive context of a phrase you did not fully undestand.
+forward the insensitive context of a phrase you did not fully understand, and simplifies the 
+translation/localization process.
 
 # Common Terms
 
@@ -154,7 +155,7 @@ replacement term and is far more appropriate metaphorically.
 
 ## Blacklists and Whitelists
 
-The cultural significant of blacklists is based in racial descrimination. There are no
+The cultural significance of blacklists is based in racial descrimination. There are no
 reasons to use these over their alternatives:
 
 ### Alternative Terms
@@ -176,8 +177,8 @@ illustrated the problem.
 
 If there is one certainty, is that change happens.
 
-Being angry that "your words have being taken from you" or that the goalposts have moved
-is counter-productive. The point of words is to influence poeple and by choosing the best
+Being angry that "your words have been taken from you" or that the goalposts have moved
+is counter-productive. The point of words is to influence people, and by choosing the best
 words you stand to influence the most people. Choose the best words you can and when
 you learn new things, adopt them.
 
