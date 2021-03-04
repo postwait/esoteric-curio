@@ -11,7 +11,7 @@ showActions: false
 
 I was born in 1978 and was a military brat. My formative primary education took place in Howard County, Maryland. I skipped a few grades and in 1994 I matriculated to [The Johns Hopkins University](https://www.jhu.edu/) where I started pursuing a dual degree in Electrical Engineering and Physics; neither of which were achieved. In 1997, I received my B.S.E. in Computer Science and entered the Ph.D. program in the [Center for Networking and Distributed Systems](https://www.cnds.jhu.edu/). 1998 rolled around delivering me my M.S.E. in Computer Science where I focused on graphics and randomized algorithms in distributed systems.  I went on to research resource allocation techniques in distributed systems during four years of post-graduate work where in 2003 I was asked to leave the Ph.D. program, but that story is only told after you buy me a beer.
 
-I started dating my future wife in 1995. We were quasi-high-school sweethearts. Note: I wasn't in high school. Four years later, we were married. Fun fact: we eloped, but most people at our wedding had no idea. Together [Lisa](https://lisabmrss.blogspot.com/) and I have three wonderful daughters.
+I started dating my future wife in 1995. We were quasi-high-school sweethearts. Note: I wasn't in high school. Four years later, we were married. Fun fact: we eloped, but most people at our wedding had no idea. Together we had three wonderful daughters. To my disappointment, she decided to pursue a life without me in it in 2020.
 
 I love food. In particular, I love meat. I thoroughly enjoy a great number of vices including fine [scotches, bourbons, whiskeys](https://lh3.googleusercontent.com/-wYdaDTa5f-8/UqegttTscCI/AAAAAAAAEJw/qW50EE8LPf8/w691-h518-no/20131210_181515_LLS.jpg), beer, wine, cigars and bacon.
 
@@ -29,11 +29,11 @@ From July 2015 until March 2016, I took a sabbatical to [travel the world with m
 
 ## Industry
 
-I am very active with the ACM [^fn:2] I sit on the [ACM Professions/Practitioners Board](https://learning.acm.org/about/professions_board.cfm) and the [ACM Queue Editorial board](https://queue.acm.org/editorialboardx.cfm).
+I am very active with the ACM [^fn:2] where I am a Distinguished Member and have held or do hold positions on the [ACM Professions/Practitioners Board](https://learning.acm.org/about/professions_board.cfm), the [ACM Queue Editorial board](https://queue.acm.org/editorialboardx.cfm), the [ACM Publications Board](https://www.acm.org/publications/publications-board-committees), and the [ACM Council](https://www.acm.org/about-acm/acm-council) as an elected Member at Large.
 
 I wrote a book on [Scalable Internet Architectures](https://www.amazon.com/exec/obidos/ASIN/067232699X/lethargy-20/104-9600898-8379162?_encoding=UTF8&camp=1789&link_code=xm2) and the first chapter of [Web Operations](https://www.amazon.com/gp/product/1449377440/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449377440&linkCode=as2&tag=lethargy-20).
 
-I've spoken at over 100 industry events and conferences; some of which are listed on my [Lanyrd speaking profile](https://lanyrd.com/profile/postwait/).
+I've spoken at over 100 industry events and conferences.  A handful of recorded talks can be [found on youtube](https://www.youtube.com/playlist?list=PLmI-gVUhoHby1WpBPqcfI3NHD4n3VCH9N).
 
 <ul class="laundry">
 I've worked on a lot of open source software:
