@@ -27,7 +27,7 @@ From July 2015 until March 2016, I took a sabbatical to [travel the world with m
 
 ## Industry and Volunteering
 
-I am very active volunteer with the ACM [^fn:2] where I am a Distinguished Member and have held or do hold positions on the [ACM Professions/Practitioners Board](https://learning.acm.org/about/professions_board.cfm), the [ACM Queue Editorial board](https://queue.acm.org/editorialboardx.cfm), the [ACM Publications Board](https://www.acm.org/publications/publications-board-committees), the [ACM Digital Libarry Board](https://dl.acm.org/about/dlboard), and the [ACM Council](https://www.acm.org/about-acm/acm-council) as an elected Member at Large.
+I am very active volunteer with the ACM [^fn:2] where I am a Distinguished Member and have held or do hold positions on the [ACM Professions/Practitioners Board](https://learning.acm.org/about/professions_board.cfm), the [ACM Queue Editorial board](https://queue.acm.org/editorialboardx.cfm), the [ACM Publications Board](https://www.acm.org/publications/publications-board-committees), the [ACM Digital Library Board](https://dl.acm.org/about/dlboard), and the [ACM Council](https://www.acm.org/about-acm/acm-council) as an elected Member at Large.
 
 In 2022, I joined the board of stewards of [The African Women Entrepreneurship Cooperative](https://www.thecge.net/institutes-initiatives/african-women-entrepreneurship-cooperative/).
 
