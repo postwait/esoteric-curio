@@ -35,8 +35,9 @@ I wrote a book on [Scalable Internet Architectures](https://www.amazon.com/exec/
 
 I've spoken at over 100 industry events and conferences.  A handful of recorded talks can be [found on youtube](https://www.youtube.com/playlist?list=PLmI-gVUhoHby1WpBPqcfI3NHD4n3VCH9N).
 
-<ul class="laundry">
 I've worked on a lot of open source software:
+
+<ul class="laundry">
 <li><a title="Apache Traffic Server" href="https://trafficserver.apache.org/">Apache Traffic Server</a></li>
 <li><a title="Node.js" href="https://github.com/joyent/node">Node.js</a></li>
 <li><a title="node-iptrie" href="https://github.com/postwait/node-iptrie">node-iptrie</a></li>
@@ -45,20 +46,21 @@ I've worked on a lot of open source software:
 <li><a title="node-netheartbeat" href="https://github.com/postwait/node-netheartbeat">node-netheartbeat</a></li>
 <li><a title="node-amqp" href="https://github.com/postwait/node-amqp">node-amqp</a></li>
 <li><a href="https://lethargy.org/~jesus/projects/">OpenSSH + SecurID</a></li>
-<li><a href="https://labs.omniti.com/trac/jlog">JLog</a></li>
-<li><a href="https://labs.omniti.com/trac/mungo">Mungo</a></li>
-<li><a href="https://labs.omniti.com/trac/portableumem">Portable umem</a></li>
-<li><a href="https://labs.omniti.com/trac/reconnoiter">Reconnoiter</a></li>
-<li><a href="https://backhand.org/mod_log_spread/">mod_log_spread</a>/<a href="https://labs.omniti.com/trac/spreadlogd">spreadlogd</a></li>
+<li><a href="https://github.com/omniti-labs/jlog">JLog</a></li>
+<li><a href="https://github.com/omniti-labs/mungo">Mungo</a></li>
+<li><a href="https://github.com/omniti-labs/portableumem">Portable umem</a></li>
+<li><a href="https://github.com/circonus-labs/reconnoiter">Reconnoiter</a></li>
+<li><a href="https://github.com/circonus-labs/libmtev">libmtev</a></li>
+<li><a href="https://backhand.org/mod_log_spread/">mod_log_spread</a></li>
 <li><a href="https://spread.org/">Spread</a></li>
 <li><a href="https://backhand.org/wackamole/">Wackamole</a></li>
-<li><a href="https://labs.omniti.com/trac/zetaback">Zetaback</a></li>
+<li><a href="https://github.com/omniti-labs/zetaback">Zetaback</a></li>
 <li><a href="https://search.cpan.org/~JESUS/">Various Perl modules</a></li>
 <li><a title="Concurrency Kit" href="https://concurrencykit.org/">concurrencykit</a></li>
 <li><a title="Node Agent Daemon" href="https://github.com/circonus-labs/nad">nad</a></li>
 <li><a href="https://github.com/postwait/vippy">Vippy</a></li>
 <li><a href="https://github.com/postwait/fq">fq</a></li>
-<li><a title="OmniOS" href="https://omnios.omniti.com">OmniOS</a></li>
+<li><a title="OmniOS" href="https://omnios.org/">OmniOS</a></li>
 <li><a title="Kayak Installer" href="https://github.com/omniti-labs/kayak">Kayak Network Installer</a></li>
 <li><a title="Illumos" href="https://github.com/illumos/illumos-gate">Illumos</a></li>
 </ul>
