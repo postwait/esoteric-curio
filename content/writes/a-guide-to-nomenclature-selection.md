@@ -61,7 +61,7 @@ and should be changed at all costs. A simple example: The N-word was "acceptable
 hundred years ago and as it became less acceptable people stopped using it. At first, they
 didn't change go back and change old messages... then they did.
 I guarantee that if you found an equally offensive word in your product docs today, there is
-literally no cost to large to go fix that. Time will change the severity of infractions and
+literally no cost too large to go fix that. Time will change the severity of infractions and
 what was once "not worth changing" will become "very worth changing." Time, it is relentless.
 
 > #### My thoughts
